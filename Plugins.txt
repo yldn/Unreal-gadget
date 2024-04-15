@@ -4,3 +4,4 @@ Modular Snap System Runtime
 CommonUI
 Smooth Sync
 In-Game Multiplayer Level Editor Framework
+LineRendererComponent
