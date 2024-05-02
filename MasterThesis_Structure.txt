@@ -13,7 +13,6 @@ abstract 0.5
 
 -theoretical Background
 
-
 $$ immerse presence understand measurement (why) 
 
 $ software architecture. software engineering patterns
