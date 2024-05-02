@@ -1,0 +1,51 @@
+Unlocking the Potential of the Metaverse in the Workplace for Design and Engineering: 
+Exploring its Utilization and Advantages in Comparison to Traditional Video Conferencing and Meetings 
+and how can the solution be attractive for employees.
+
+1.Development part (practical)
+
+
+2.Document(80 pages)
+
+abstract 0.5
+
+-introduction (good thing , goal )3-5 
+
+-theoretical Background
+
+
+$$ immerse presence understand measurement (why) 
+
+$ software architecture. software engineering patterns
+
+$$$$ interaction system in collaborativ envrionment (users and contents)
+	-multiplayer 
+	-defining interactions 
+
+-related work (theoretical summarize existing research )20-25 
+	VR applications with multi people (Metaverse)interactions summerize self outcome
+	summerizing view in my own word
+	learn from existing solution research 
+
+-implementation () 30-35 
+  	-what and which aspect 
+	-diagram
+
+-evaluation 5-10 
+	*user studies  
+	*techincal evalutaion  
+
+-future work 1-2 
+-conclusion 1-2 
+-summarizing source 
+
+
+3. Presentation (after )(20min Every Thrusday)
+
+
+Preparing time 
+scientific core of the component 
+
+
+deep implementation
+User study
