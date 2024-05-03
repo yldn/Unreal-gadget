@@ -4,6 +4,10 @@ and how can the solution be attractive for employees.
 
 1.Development part (practical)
 
+$$ interactions VR (software architechure)
+$ level design 
+cocreation
+
 
 2.Document(80 pages)
 

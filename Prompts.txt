@@ -1,6 +1,7 @@
 Im doing research on Unlocking the Potential of the Metaverse in the Workplace for Design and Engineering: Exploring its Utilization and Advantages in Comparison to Traditional Video Conferencing and Meetings and how can the solution be attractive for employees.
 
 Please help me writing the  article  regarding following subchapters with reference and understandable text:
-1.Brief history of the collaboration tools
-2.Metaverse in the workplace
-3.Software engineering architecture in collaboration tools : -- Multiplayer game architecture. -- Interaction System
+
+*Immersive Presence why it is important to feeling presence in the meeting. 
+*Interactive System
+*Software architecture in collaboration tools : -- Multiplayer game architecture. -- Interaction System
