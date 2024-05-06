@@ -31,6 +31,7 @@ $$$$ interaction system in collaborativ envrionment (users and contents)
 	learn from existing solution research 
 
 -implementation () 30-35 
+	-focus interview of the design teams 
   	-what and which aspect 
 	-diagram
 
