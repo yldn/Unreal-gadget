@@ -1,0 +1,144 @@
+import bpy
+import bmesh
+
+# Function to clear all objects in the scene
+def clear_scene():
+    # Ensure we are in object mode before selecting and deleting objects
+    if bpy.context.active_object is not None:
+        bpy.ops.object.mode_set(mode='OBJECT')
+    # Delete all objects in the scene
+    bpy.ops.object.select_all(action='SELECT')
+    bpy.ops.object.delete()
+
+def create_walls(length, width, height, wall_thickness, bevel_width, bevel_segments):
+    bpy.ops.mesh.primitive_cube_add(size=2, location=(0, 0, height / 2))
+    walls = bpy.context.active_object
+    walls.name = "Walls"
+    walls.scale = (length / 2 + wall_thickness, width / 2 + wall_thickness, height / 2)
+    bpy.ops.object.transform_apply(scale=True)
+
+    bpy.ops.object.mode_set(mode='EDIT')
+    bm = bmesh.from_edit_mesh(walls.data)
+    bm.faces.ensure_lookup_table()
+
+    # Remove the top and bottom faces to form the walls
+    for face in bm.faces:
+        if abs(face.normal.z) > 0.9:
+            bm.faces.remove(face)
+
+    # Update the mesh data
+    bmesh.update_edit_mesh(walls.data, loop_triangles=True, destructive=True)
+    bpy.ops.object.mode_set(mode='OBJECT')
+    
+    # Add the Bevel modifier with segments to the walls object
+    bevel_modifier = walls.modifiers.new(name='Bevel', type='BEVEL')
+    bevel_modifier.width = bevel_width
+    bevel_modifier.segments = bevel_segments  # Sets the number of segments in the bevel
+    bevel_modifier.limit_method = 'ANGLE'
+    bevel_modifier.angle_limit = 1.308997  # 75 degrees in radians
+    bpy.ops.object.modifier_apply(modifier='Bevel')
+    
+
+    return walls
+
+# Function to create the floor
+
+def create_floor_from_walls(walls, thickness, gap, bevel_width, bevel_segments):
+    # Duplicate the walls object to create the floor
+    bpy.ops.object.select_all(action='DESELECT')  # Deselect all objects
+    walls.select_set(True)  # Select only the walls object
+    bpy.ops.object.duplicate_move(OBJECT_OT_duplicate={"linked":False, "mode":'TRANSLATION'})
+    floor = bpy.context.selected_objects[0]
+    floor.name = "Floor"
+    
+    # Adjust floor scaling to account for the gap and correct the z scale for floor thickness
+    scale_x = (walls.dimensions.x - 2 * gap) / walls.dimensions.x
+    scale_y = (walls.dimensions.y - 2 * gap) / walls.dimensions.y
+    floor.scale.x *= scale_x
+    floor.scale.y *= scale_y
+    floor.scale.z = thickness / walls.scale.z
+
+    bpy.ops.object.transform_apply(location=False, scale=True)
+
+    # Add a bevel modifier to the floor object
+    bevel_modifier = floor.modifiers.new(name='Bevel', type='BEVEL')
+    bevel_modifier.width = bevel_width
+    bevel_modifier.segments = bevel_segments
+    bevel_modifier.limit_method = 'ANGLE'
+    bevel_modifier.angle_limit = 1.308997  # 75 degrees in radians
+    
+    bpy.ops.object.modifier_apply(modifier='Bevel')
+    
+    
+#    fill the faces
+# Switch to edit mode to work with bmesh on the floor object
+    bpy.ops.object.mode_set(mode='EDIT')
+
+    # Create a bmesh from the floor's mesh data
+    bm = bmesh.from_edit_mesh(floor.data)
+
+    # Define a small epsilon for float comparison
+    epsilon = 0.0001
+
+    # Find the top and bottom vertices
+    z_coords = [v.co.z for v in bm.verts]
+    max_z = max(z_coords)
+    min_z = min(z_coords)
+
+    top_verts = [v for v in bm.verts if v.co.z >= max_z - epsilon]
+    bottom_verts = [v for v in bm.verts if v.co.z <= min_z + epsilon]
+    
+    
+#    fill top/bottom edge 
+
+    # Fill the top and bottom loops with faces
+    for loop_verts in (top_verts, bottom_verts):
+        edges = [edge for edge in bm.edges if set(edge.verts).issubset(loop_verts)]
+        bmesh.ops.edgeloop_fill(bm, edges=edges)
+
+    # Update the bmesh back to the mesh data
+    bmesh.update_edit_mesh(floor.data)
+    
+    bpy.ops.object.mode_set(mode='OBJECT')
+
+    # Apply the bevel modifier to the floor object
+    bpy.ops.object.modifier_apply(modifier='Bevel')
+    
+    
+    return floor
+
+
+
+# Create camera
+def create_camera(room_length, room_width, room_height):
+    bpy.ops.object.camera_add(location=(0, -room_length, room_height / 2))
+    camera = bpy.context.active_object
+    camera.data.lens = 18
+    camera.rotation_euler = (1.5708, 0, 1.5708)
+
+# Create lighting
+def add_lighting(room_length, room_width, room_height):
+    bpy.ops.object.light_add(type='POINT', location=(0, 0, room_height))
+    light = bpy.context.active_object
+    light.data.energy = 1000
+
+# Main script function
+def main():
+    clear_scene()
+    room_length, room_width, room_height = 15.0, 10.0, 6.0
+    wall_thickness = 0.4
+    floor_thickness, floor_gap = 0.1, 0.5
+    
+    bevel_width = 3  # The width of the bevel
+    bevel_segments = 20  # The number of segments in the bevel for smoothness
+    
+    walls = create_walls(room_length, room_width, room_height, wall_thickness, bevel_width, bevel_segments)
+    
+    floor = create_floor_from_walls(walls, floor_thickness, floor_gap, bevel_width, bevel_segments)
+    
+    create_camera(room_length, room_width, room_height)
+    add_lighting(room_length, room_width, room_height)
+
+# Run the script
+if __name__ == "__main__":
+    main()
