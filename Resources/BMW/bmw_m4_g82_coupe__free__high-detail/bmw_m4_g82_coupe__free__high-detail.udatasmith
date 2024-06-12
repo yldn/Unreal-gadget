@@ -1,0 +1,1446 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.11"/>
+	<User ID="yang" OS="Windows 10"/>
+	<Actor name="Sketchfab_model" layer="Scene Collection">
+		<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707107" qx="0.707107" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+		<children visible="True">
+			<Actor name="749bbc7448e04d5aa6dcd16308c2ad63_fbx" layer="Scene Collection">
+				<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.010000" sy="0.010000" sz="0.010000"/>
+				<children visible="True">
+					<Actor name="RootNode" layer="Scene Collection">
+						<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.010000" sy="0.010000" sz="0.010000"/>
+						<children visible="True">
+							<Actor name="CRB" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="CRB_Material_017_0" layer="Scene Collection">
+										<mesh name="CRB_Material_017_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="Glass_mesh_windows" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="Glass_mesh_windows_Material_0" layer="Scene Collection">
+										<mesh name="Glass_mesh_windows_Material_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="Glass_mesh_windows_Material_0_001" layer="Scene Collection">
+										<mesh name="Glass_mesh_windows_Material_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="headlight_glass" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="headlight_glass_Material_016_0" layer="Scene Collection">
+										<mesh name="headlight_glass_Material_016_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="headlight_glass_Material_016_0_001" layer="Scene Collection">
+										<mesh name="headlight_glass_Material_016_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="headlight_glass_Material_016_0_002" layer="Scene Collection">
+										<mesh name="headlight_glass_Material_016_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="headlight_glass_Material_016_0_003" layer="Scene Collection">
+										<mesh name="headlight_glass_Material_016_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="headlight_glass_Material_016_0_004" layer="Scene Collection">
+										<mesh name="headlight_glass_Material_016_0_004"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_0" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_0_Material_013_0" layer="Scene Collection">
+										<mesh name="model_0_Material_013_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_0_Material_013_0_001" layer="Scene Collection">
+										<mesh name="model_0_Material_013_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_0_Material_013_0_002" layer="Scene Collection">
+										<mesh name="model_0_Material_013_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_0_Material_013_0_003" layer="Scene Collection">
+										<mesh name="model_0_Material_013_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_0_Material_013_0_004" layer="Scene Collection">
+										<mesh name="model_0_Material_013_0_004"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_1" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_1_Material_004_0" layer="Scene Collection">
+										<mesh name="model_1_Material_004_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_10" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_10_Material_015_0" layer="Scene Collection">
+										<mesh name="model_10_Material_015_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_11" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_11_Material_001_0" layer="Scene Collection">
+										<mesh name="model_11_Material_001_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_11_Material_001_0_001" layer="Scene Collection">
+										<mesh name="model_11_Material_001_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_11_Material_001_0_002" layer="Scene Collection">
+										<mesh name="model_11_Material_001_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_11_Material_001_0_003" layer="Scene Collection">
+										<mesh name="model_11_Material_001_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_11_Material_001_0_004" layer="Scene Collection">
+										<mesh name="model_11_Material_001_0_004"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_11_Material_001_0_005" layer="Scene Collection">
+										<mesh name="model_11_Material_001_0_005"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_12" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_12_Material_001_0" layer="Scene Collection">
+										<mesh name="model_12_Material_001_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_12_Material_001_0_001" layer="Scene Collection">
+										<mesh name="model_12_Material_001_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_12_Material_001_0_002" layer="Scene Collection">
+										<mesh name="model_12_Material_001_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_12_Material_001_0_003" layer="Scene Collection">
+										<mesh name="model_12_Material_001_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_12_Material_001_0_004" layer="Scene Collection">
+										<mesh name="model_12_Material_001_0_004"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_13" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_13_Material_011_0" layer="Scene Collection">
+										<mesh name="model_13_Material_011_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_14" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_14_Material_021_0" layer="Scene Collection">
+										<mesh name="model_14_Material_021_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_14_Material_021_0_001" layer="Scene Collection">
+										<mesh name="model_14_Material_021_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_15" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_15_Material_019_0" layer="Scene Collection">
+										<mesh name="model_15_Material_019_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_16" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_16_Material_014_0" layer="Scene Collection">
+										<mesh name="model_16_Material_014_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_17" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_17_Material_009_0" layer="Scene Collection">
+										<mesh name="model_17_Material_009_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_18" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_18_Material_005_0" layer="Scene Collection">
+										<mesh name="model_18_Material_005_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_18_Material_005_0_001" layer="Scene Collection">
+										<mesh name="model_18_Material_005_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_19" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_19__0" layer="Scene Collection">
+										<mesh name="model_19__0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_2" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_2_Material_006_0" layer="Scene Collection">
+										<mesh name="model_2_Material_006_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_2_Material_006_0_001" layer="Scene Collection">
+										<mesh name="model_2_Material_006_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_2_Material_006_0_002" layer="Scene Collection">
+										<mesh name="model_2_Material_006_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_20" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_20_Material_012_0" layer="Scene Collection">
+										<mesh name="model_20_Material_012_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_21" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_21_Material_026_0" layer="Scene Collection">
+										<mesh name="model_21_Material_026_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_22" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_22_Material_024_0" layer="Scene Collection">
+										<mesh name="model_22_Material_024_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_22_Material_024_0_001" layer="Scene Collection">
+										<mesh name="model_22_Material_024_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_23" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_23_Material_027_0" layer="Scene Collection">
+										<mesh name="model_23_Material_027_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_24" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_24_Material_028_0" layer="Scene Collection">
+										<mesh name="model_24_Material_028_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_25" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_25_Material_031_0" layer="Scene Collection">
+										<mesh name="model_25_Material_031_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_26" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_26_Material_030_0" layer="Scene Collection">
+										<mesh name="model_26_Material_030_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_27" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_27_Material_020_0" layer="Scene Collection">
+										<mesh name="model_27_Material_020_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_28" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_28_Material_022_0" layer="Scene Collection">
+										<mesh name="model_28_Material_022_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_3" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_3_Material_002_0" layer="Scene Collection">
+										<mesh name="model_3_Material_002_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_3_Material_002_0_001" layer="Scene Collection">
+										<mesh name="model_3_Material_002_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_3_Material_002_0_002" layer="Scene Collection">
+										<mesh name="model_3_Material_002_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_3_Material_002_0_003" layer="Scene Collection">
+										<mesh name="model_3_Material_002_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_3_001" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.706880" qx="-0.707334" qy="0.000000" qz="0.000000" sx="-0.065905" sy="-0.065905" sz="-0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_3_001_Material_025_0" layer="Scene Collection">
+										<mesh name="model_3_001_Material_025_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.706880" qx="-0.707334" qy="0.000000" qz="0.000000" sx="-0.065905" sy="-0.065905" sz="-0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_3_001_Material_025_0_001" layer="Scene Collection">
+										<mesh name="model_3_001_Material_025_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.706880" qx="-0.707334" qy="0.000000" qz="0.000000" sx="-0.065905" sy="-0.065905" sz="-0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_3_001_Material_025_0_002" layer="Scene Collection">
+										<mesh name="model_3_001_Material_025_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.706880" qx="-0.707334" qy="0.000000" qz="0.000000" sx="-0.065905" sy="-0.065905" sz="-0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_3_001_Material_025_0_003" layer="Scene Collection">
+										<mesh name="model_3_001_Material_025_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.706880" qx="-0.707334" qy="0.000000" qz="0.000000" sx="-0.065905" sy="-0.065905" sz="-0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_35" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_35_Material_023_0" layer="Scene Collection">
+										<mesh name="model_35_Material_023_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_35_Material_023_0_001" layer="Scene Collection">
+										<mesh name="model_35_Material_023_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_4" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_4_Material_002_0" layer="Scene Collection">
+										<mesh name="model_4_Material_002_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_4_Material_002_0_001" layer="Scene Collection">
+										<mesh name="model_4_Material_002_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_4_Material_002_0_002" layer="Scene Collection">
+										<mesh name="model_4_Material_002_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_5" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_5_Material_003_0" layer="Scene Collection">
+										<mesh name="model_5_Material_003_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_5_Material_003_0_001" layer="Scene Collection">
+										<mesh name="model_5_Material_003_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_5_Material_003_0_002" layer="Scene Collection">
+										<mesh name="model_5_Material_003_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_5_Material_003_0_003" layer="Scene Collection">
+										<mesh name="model_5_Material_003_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_5_Material_003_0_004" layer="Scene Collection">
+										<mesh name="model_5_Material_003_0_004"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_6" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_6_Material_008_0" layer="Scene Collection">
+										<mesh name="model_6_Material_008_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_6_Material_008_0_001" layer="Scene Collection">
+										<mesh name="model_6_Material_008_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_6_Material_008_0_002" layer="Scene Collection">
+										<mesh name="model_6_Material_008_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_6_Material_008_0_003" layer="Scene Collection">
+										<mesh name="model_6_Material_008_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_6_Material_008_0_004" layer="Scene Collection">
+										<mesh name="model_6_Material_008_0_004"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_7" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_7_Material_007_0" layer="Scene Collection">
+										<mesh name="model_7_Material_007_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_7_Material_007_0_001" layer="Scene Collection">
+										<mesh name="model_7_Material_007_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_7_Material_007_0_002" layer="Scene Collection">
+										<mesh name="model_7_Material_007_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_7_Material_007_0_003" layer="Scene Collection">
+										<mesh name="model_7_Material_007_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_8" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_8_Material_010_0" layer="Scene Collection">
+										<mesh name="model_8_Material_010_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_8_Material_010_0_001" layer="Scene Collection">
+										<mesh name="model_8_Material_010_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_8_Material_010_0_002" layer="Scene Collection">
+										<mesh name="model_8_Material_010_0_002"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_8_Material_010_0_003" layer="Scene Collection">
+										<mesh name="model_8_Material_010_0_003"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="model_9" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="model_9_Material_029_0" layer="Scene Collection">
+										<mesh name="model_9_Material_029_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+									<ActorMesh name="model_9_Material_029_0_001" layer="Scene Collection">
+										<mesh name="model_9_Material_029_0_001"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="REAR_HEADLIGHT_GLASS" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+								<children visible="True">
+									<ActorMesh name="REAR_HEADLIGHT_GLASS_Material_018_0" layer="Scene Collection">
+										<mesh name="REAR_HEADLIGHT_GLASS_Material_018_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707334" qx="0.706880" qy="0.000000" qz="0.000000" sx="0.065905" sy="0.065905" sz="0.065905"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<Light name="Light" layer="Collection" type="PointLight" enabled="1">
+		<SourceSize value="10.000000"/>
+		<Intensity value="1000.000000"/>
+		<AttenuationRadius value="3162.277660"/>
+		<IntensityUnits value="Lumens"/>
+		<Color usetemp="0" temperature="6500.0" R="1.000000" G="1.000000" B="1.000000"/>
+		<Transform tx="407.624542" ty="-100.545395" tz="590.386230" qw="0.144014" qx="-0.442790" qy="0.040919" qz="0.884037" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Light>
+	<Camera name="Camera" layer="Collection">
+		<DepthOfField enabled="0"/>
+		<SensorWidth value="36.000000"/>
+		<SensorAspectRatio value="1.777778"/>
+		<FocusDistance value="1000.000000"/>
+		<FStop value="2.800000"/>
+		<FocalLength value="50.000000"/>
+		<Post/>
+		<Transform tx="735.889160" ty="692.579102" tz="495.830933" qw="0.359222" qx="0.212557" qy="0.084389" qz="-0.904797" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Camera>
+	<StaticMesh label="CRB_Material_017_0" name="CRB_Material_017_0">
+		<Material id="0" name="Material_017"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/CRB_Material_017_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ddc26fecdd578a1cf4b11e0465b918f"/>
+	</StaticMesh>
+	<StaticMesh label="Glass_mesh_windows_Material_0" name="Glass_mesh_windows_Material_0">
+		<Material id="0" name="Material_016"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/Glass_mesh_windows_Material_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8ab50187342d25cccc2242e4efbe13cb"/>
+	</StaticMesh>
+	<StaticMesh label="Glass_mesh_windows_Material_0_001" name="Glass_mesh_windows_Material_0_001">
+		<Material id="0" name="Material_016"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/Glass_mesh_windows_Material_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a8a78ac663455a0899b321688240d09b"/>
+	</StaticMesh>
+	<StaticMesh label="headlight_glass_Material_016_0" name="headlight_glass_Material_016_0">
+		<Material id="0" name="Material_025"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/headlight_glass_Material_016_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c9368682d6898d56bbe1a6faf2ce3028"/>
+	</StaticMesh>
+	<StaticMesh label="headlight_glass_Material_016_0_001" name="headlight_glass_Material_016_0_001">
+		<Material id="0" name="Material_025"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/headlight_glass_Material_016_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5b76ee20c22fc56c5e31b9d90d52db5"/>
+	</StaticMesh>
+	<StaticMesh label="headlight_glass_Material_016_0_002" name="headlight_glass_Material_016_0_002">
+		<Material id="0" name="Material_025"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/headlight_glass_Material_016_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="59bc1985a334c0121e000323c076e8d0"/>
+	</StaticMesh>
+	<StaticMesh label="headlight_glass_Material_016_0_003" name="headlight_glass_Material_016_0_003">
+		<Material id="0" name="Material_025"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/headlight_glass_Material_016_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ea8dcf61e3af7a99902237bb9092b2c"/>
+	</StaticMesh>
+	<StaticMesh label="headlight_glass_Material_016_0_004" name="headlight_glass_Material_016_0_004">
+		<Material id="0" name="Material_025"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/headlight_glass_Material_016_0_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8d72e8cd47d7dae8b59345e103f0c24"/>
+	</StaticMesh>
+	<StaticMesh label="model_0_Material_013_0" name="model_0_Material_013_0">
+		<Material id="0" name="Material_013"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_0_Material_013_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0b6890f285844fe1aee40a769ab3c027"/>
+	</StaticMesh>
+	<StaticMesh label="model_0_Material_013_0_001" name="model_0_Material_013_0_001">
+		<Material id="0" name="Material_013"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_0_Material_013_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b8aeaae88b344e576f46df1715af66fe"/>
+	</StaticMesh>
+	<StaticMesh label="model_0_Material_013_0_002" name="model_0_Material_013_0_002">
+		<Material id="0" name="Material_013"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_0_Material_013_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b1df89237f62afaa54d9d545b08272db"/>
+	</StaticMesh>
+	<StaticMesh label="model_0_Material_013_0_003" name="model_0_Material_013_0_003">
+		<Material id="0" name="Material_013"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_0_Material_013_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="db2b02f691fb448509ee3e9b0e8322c5"/>
+	</StaticMesh>
+	<StaticMesh label="model_0_Material_013_0_004" name="model_0_Material_013_0_004">
+		<Material id="0" name="Material_013"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_0_Material_013_0_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="68168ef73b70814b23c588f6fe8c1e1c"/>
+	</StaticMesh>
+	<StaticMesh label="model_1_Material_004_0" name="model_1_Material_004_0">
+		<Material id="0" name="Material_004"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_1_Material_004_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4dcfa2d492acbfb74859dee6af2ec969"/>
+	</StaticMesh>
+	<StaticMesh label="model_10_Material_015_0" name="model_10_Material_015_0">
+		<Material id="0" name="Material_015"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_10_Material_015_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0d1816af73788f95a4582a5252db4d9e"/>
+	</StaticMesh>
+	<StaticMesh label="model_11_Material_001_0" name="model_11_Material_001_0">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_11_Material_001_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c97765427a8ca3e9a18c96cecd93a475"/>
+	</StaticMesh>
+	<StaticMesh label="model_11_Material_001_0_001" name="model_11_Material_001_0_001">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_11_Material_001_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="accbc01bd3771b477a4fb29efdd60614"/>
+	</StaticMesh>
+	<StaticMesh label="model_11_Material_001_0_002" name="model_11_Material_001_0_002">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_11_Material_001_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7ebb07dc256f94f92f77da8dfc8eb420"/>
+	</StaticMesh>
+	<StaticMesh label="model_11_Material_001_0_003" name="model_11_Material_001_0_003">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_11_Material_001_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="52397e7188e1df3339728a8db5c29c82"/>
+	</StaticMesh>
+	<StaticMesh label="model_11_Material_001_0_004" name="model_11_Material_001_0_004">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_11_Material_001_0_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c4feb47a5621aa6b48c58eeb7a778d8d"/>
+	</StaticMesh>
+	<StaticMesh label="model_11_Material_001_0_005" name="model_11_Material_001_0_005">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_11_Material_001_0_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="43d8d6f6e0cffa0ee56712bcca3d9568"/>
+	</StaticMesh>
+	<StaticMesh label="model_12_Material_001_0" name="model_12_Material_001_0">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_12_Material_001_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="92fa872d2188cb7ca62e167faf003265"/>
+	</StaticMesh>
+	<StaticMesh label="model_12_Material_001_0_001" name="model_12_Material_001_0_001">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_12_Material_001_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="aa49974a43185e053d5e131ada1c6eb4"/>
+	</StaticMesh>
+	<StaticMesh label="model_12_Material_001_0_002" name="model_12_Material_001_0_002">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_12_Material_001_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="065f8836943327213a17e31ed086c5cd"/>
+	</StaticMesh>
+	<StaticMesh label="model_12_Material_001_0_003" name="model_12_Material_001_0_003">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_12_Material_001_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3b9ff5a64646bd3a8d9706996cc97e1d"/>
+	</StaticMesh>
+	<StaticMesh label="model_12_Material_001_0_004" name="model_12_Material_001_0_004">
+		<Material id="0" name="Material_001"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_12_Material_001_0_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3b339ceba77236a9d43159ef76b1dbe5"/>
+	</StaticMesh>
+	<StaticMesh label="model_13_Material_011_0" name="model_13_Material_011_0">
+		<Material id="0" name="Material_011"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_13_Material_011_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c4e2b54d04f5069cf2b1d228cee149e8"/>
+	</StaticMesh>
+	<StaticMesh label="model_14_Material_021_0" name="model_14_Material_021_0">
+		<Material id="0" name="Material_021"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_14_Material_021_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5089f6a0b3d7545014b60c9eb014035b"/>
+	</StaticMesh>
+	<StaticMesh label="model_14_Material_021_0_001" name="model_14_Material_021_0_001">
+		<Material id="0" name="Material_021"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_14_Material_021_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="02e19ad7c057a38c8fb3f90ef486fdb0"/>
+	</StaticMesh>
+	<StaticMesh label="model_15_Material_019_0" name="model_15_Material_019_0">
+		<Material id="0" name="Material_019"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_15_Material_019_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ff752d529854db4961ae9a34e2cf527c"/>
+	</StaticMesh>
+	<StaticMesh label="model_16_Material_014_0" name="model_16_Material_014_0">
+		<Material id="0" name="Material_014"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_16_Material_014_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="20609d3b87b658ec3a72e6e5afc958e1"/>
+	</StaticMesh>
+	<StaticMesh label="model_17_Material_009_0" name="model_17_Material_009_0">
+		<Material id="0" name="Material_009"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_17_Material_009_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6df977a124573e9e0fe692ce8bfaa147"/>
+	</StaticMesh>
+	<StaticMesh label="model_18_Material_005_0" name="model_18_Material_005_0">
+		<Material id="0" name="Material_005"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_18_Material_005_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8cb105343fb953c1bf36a589a0faad2d"/>
+	</StaticMesh>
+	<StaticMesh label="model_18_Material_005_0_001" name="model_18_Material_005_0_001">
+		<Material id="0" name="Material_005"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_18_Material_005_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7698fb506a9ee1eba9f2e1dff2dd7c34"/>
+	</StaticMesh>
+	<StaticMesh label="model_19__0" name="model_19__0">
+		<Material id="0" name="model_19__0"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_19__0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="261d6c55dc124b94e577b5e5cfd880ba"/>
+	</StaticMesh>
+	<StaticMesh label="model_2_Material_006_0" name="model_2_Material_006_0">
+		<Material id="0" name="Material_006"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_2_Material_006_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="262063c2769ab155385888deb7cc2319"/>
+	</StaticMesh>
+	<StaticMesh label="model_2_Material_006_0_001" name="model_2_Material_006_0_001">
+		<Material id="0" name="Material_006"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_2_Material_006_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e5c59b3098fb8a9b8faa27cf2a6880c5"/>
+	</StaticMesh>
+	<StaticMesh label="model_2_Material_006_0_002" name="model_2_Material_006_0_002">
+		<Material id="0" name="Material_006"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_2_Material_006_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="505db614643226ee2c91b110a386850b"/>
+	</StaticMesh>
+	<StaticMesh label="model_20_Material_012_0" name="model_20_Material_012_0">
+		<Material id="0" name="Material_012"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_20_Material_012_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6502ba64c45bd140c1097ddb4799999"/>
+	</StaticMesh>
+	<StaticMesh label="model_21_Material_026_0" name="model_21_Material_026_0">
+		<Material id="0" name="Material_026"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_21_Material_026_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e3e823fe49f1a41d87cf9cbf9790bdc7"/>
+	</StaticMesh>
+	<StaticMesh label="model_22_Material_024_0" name="model_22_Material_024_0">
+		<Material id="0" name="Material_024"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_22_Material_024_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d499b46ffd52603536f50e0251486832"/>
+	</StaticMesh>
+	<StaticMesh label="model_22_Material_024_0_001" name="model_22_Material_024_0_001">
+		<Material id="0" name="Material_024"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_22_Material_024_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e868cad770aed524bb724992e20d7a7f"/>
+	</StaticMesh>
+	<StaticMesh label="model_23_Material_027_0" name="model_23_Material_027_0">
+		<Material id="0" name="Material_027"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_23_Material_027_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8508447e3d919b8e1ba9dd184853356e"/>
+	</StaticMesh>
+	<StaticMesh label="model_24_Material_028_0" name="model_24_Material_028_0">
+		<Material id="0" name="Material_028"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_24_Material_028_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="87fa725a59b4a8ee4908833a2e7953c4"/>
+	</StaticMesh>
+	<StaticMesh label="model_25_Material_031_0" name="model_25_Material_031_0">
+		<Material id="0" name="Material_031"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_25_Material_031_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="180a8b6d6b8ef26c192d8e6ed8dc8475"/>
+	</StaticMesh>
+	<StaticMesh label="model_26_Material_030_0" name="model_26_Material_030_0">
+		<Material id="0" name="Material_030"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_26_Material_030_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d8ab81c06d04bf6d588d36e46c04465e"/>
+	</StaticMesh>
+	<StaticMesh label="model_27_Material_020_0" name="model_27_Material_020_0">
+		<Material id="0" name="Material_020"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_27_Material_020_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9d9ec37ef0cb76e10ec6649dfeb2a765"/>
+	</StaticMesh>
+	<StaticMesh label="model_28_Material_022_0" name="model_28_Material_022_0">
+		<Material id="0" name="Material_022"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_28_Material_022_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="464b0861ca585a4de34a9cff8a6bef1a"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_Material_002_0" name="model_3_Material_002_0">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_Material_002_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2602db0cac0ded6fba05936467c05fa7"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_Material_002_0_001" name="model_3_Material_002_0_001">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_Material_002_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="da3fe885db37149e104b575c9ca6a786"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_Material_002_0_002" name="model_3_Material_002_0_002">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_Material_002_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="601d05d4519d60f98ffc75d08ce1a31e"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_Material_002_0_003" name="model_3_Material_002_0_003">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_Material_002_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="32ba2a847becfc7e76f26977f75909b0"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_001_Material_025_0" name="model_3_001_Material_025_0">
+		<Material id="0" name="Material_032"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_001_Material_025_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f69f6306a01bd305927317d74eac13f8"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_001_Material_025_0_001" name="model_3_001_Material_025_0_001">
+		<Material id="0" name="Material_032"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_001_Material_025_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e333f8be2fac888be84083bfbce947c7"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_001_Material_025_0_002" name="model_3_001_Material_025_0_002">
+		<Material id="0" name="Material_032"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_001_Material_025_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2672539752c925dc278a60375ba1ae60"/>
+	</StaticMesh>
+	<StaticMesh label="model_3_001_Material_025_0_003" name="model_3_001_Material_025_0_003">
+		<Material id="0" name="Material_032"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_3_001_Material_025_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="291ee44e147313a01d4a054b68d8edb3"/>
+	</StaticMesh>
+	<StaticMesh label="model_35_Material_023_0" name="model_35_Material_023_0">
+		<Material id="0" name="Material_023"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_35_Material_023_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="93fdefd2bf69debd9b90f712601f7ed3"/>
+	</StaticMesh>
+	<StaticMesh label="model_35_Material_023_0_001" name="model_35_Material_023_0_001">
+		<Material id="0" name="Material_023"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_35_Material_023_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3c6cc75d0eeacd59e76850527cc88f66"/>
+	</StaticMesh>
+	<StaticMesh label="model_4_Material_002_0" name="model_4_Material_002_0">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_4_Material_002_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b0bbc331335d09bd788d0b9aa3412052"/>
+	</StaticMesh>
+	<StaticMesh label="model_4_Material_002_0_001" name="model_4_Material_002_0_001">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_4_Material_002_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8de9fac4d6df215ba52130d860d57f29"/>
+	</StaticMesh>
+	<StaticMesh label="model_4_Material_002_0_002" name="model_4_Material_002_0_002">
+		<Material id="0" name="Material_002"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_4_Material_002_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a0bda3e347998e4862f5638b8076bd78"/>
+	</StaticMesh>
+	<StaticMesh label="model_5_Material_003_0" name="model_5_Material_003_0">
+		<Material id="0" name="Material_003"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_5_Material_003_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2f8b2156a9acf1e04aee88be304339c7"/>
+	</StaticMesh>
+	<StaticMesh label="model_5_Material_003_0_001" name="model_5_Material_003_0_001">
+		<Material id="0" name="Material_003"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_5_Material_003_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="41f4f1823a243e289e79d66836526214"/>
+	</StaticMesh>
+	<StaticMesh label="model_5_Material_003_0_002" name="model_5_Material_003_0_002">
+		<Material id="0" name="Material_003"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_5_Material_003_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6d6d29691033967dc5a8b739d32b2059"/>
+	</StaticMesh>
+	<StaticMesh label="model_5_Material_003_0_003" name="model_5_Material_003_0_003">
+		<Material id="0" name="Material_003"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_5_Material_003_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="901e4eb88f5fca6c120beaecc27c0fcb"/>
+	</StaticMesh>
+	<StaticMesh label="model_5_Material_003_0_004" name="model_5_Material_003_0_004">
+		<Material id="0" name="Material_003"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_5_Material_003_0_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0b00eda34ae7ab43487b70e57abe72fe"/>
+	</StaticMesh>
+	<StaticMesh label="model_6_Material_008_0" name="model_6_Material_008_0">
+		<Material id="0" name="Material_008"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_6_Material_008_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a4bdc7d2db767a44facd30465c6d4f53"/>
+	</StaticMesh>
+	<StaticMesh label="model_6_Material_008_0_001" name="model_6_Material_008_0_001">
+		<Material id="0" name="Material_008"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_6_Material_008_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9b2cf5da2f0976cbb75f204ed3e1a10e"/>
+	</StaticMesh>
+	<StaticMesh label="model_6_Material_008_0_002" name="model_6_Material_008_0_002">
+		<Material id="0" name="Material_008"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_6_Material_008_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a4b6fa1836f0db83724e3799342f7f58"/>
+	</StaticMesh>
+	<StaticMesh label="model_6_Material_008_0_003" name="model_6_Material_008_0_003">
+		<Material id="0" name="Material_008"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_6_Material_008_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8c7b72b328b6d10a570b1d7a0a2406cd"/>
+	</StaticMesh>
+	<StaticMesh label="model_6_Material_008_0_004" name="model_6_Material_008_0_004">
+		<Material id="0" name="Material_008"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_6_Material_008_0_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e0da99d37f7317bf9d19244341ee9127"/>
+	</StaticMesh>
+	<StaticMesh label="model_7_Material_007_0" name="model_7_Material_007_0">
+		<Material id="0" name="Material_007"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_7_Material_007_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0cc65718f1f8006d9b4eab1594b1496"/>
+	</StaticMesh>
+	<StaticMesh label="model_7_Material_007_0_001" name="model_7_Material_007_0_001">
+		<Material id="0" name="Material_007"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_7_Material_007_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba6679ed929a54481127469d0ed8aba5"/>
+	</StaticMesh>
+	<StaticMesh label="model_7_Material_007_0_002" name="model_7_Material_007_0_002">
+		<Material id="0" name="Material_007"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_7_Material_007_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="347e1f6f1d89927275f75331a96f9511"/>
+	</StaticMesh>
+	<StaticMesh label="model_7_Material_007_0_003" name="model_7_Material_007_0_003">
+		<Material id="0" name="Material_007"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_7_Material_007_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6909ecf8eac8eddcfadcd7bc06c4901e"/>
+	</StaticMesh>
+	<StaticMesh label="model_8_Material_010_0" name="model_8_Material_010_0">
+		<Material id="0" name="Material_010"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_8_Material_010_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8be42f13f37c7eae800b6383d4f22fa"/>
+	</StaticMesh>
+	<StaticMesh label="model_8_Material_010_0_001" name="model_8_Material_010_0_001">
+		<Material id="0" name="Material_010"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_8_Material_010_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e21e4457ab0b3d007559e9f7d5b0d11b"/>
+	</StaticMesh>
+	<StaticMesh label="model_8_Material_010_0_002" name="model_8_Material_010_0_002">
+		<Material id="0" name="Material_010"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_8_Material_010_0_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2619c77306f6a0988b363f086ec1c7d7"/>
+	</StaticMesh>
+	<StaticMesh label="model_8_Material_010_0_003" name="model_8_Material_010_0_003">
+		<Material id="0" name="Material_010"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_8_Material_010_0_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="85b67b21b2405fa1583bada11c9bc5f8"/>
+	</StaticMesh>
+	<StaticMesh label="model_9_Material_029_0" name="model_9_Material_029_0">
+		<Material id="0" name="Material_029"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_9_Material_029_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="271eac72842df14811a4e4d817f115be"/>
+	</StaticMesh>
+	<StaticMesh label="model_9_Material_029_0_001" name="model_9_Material_029_0_001">
+		<Material id="0" name="Material_029"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/model_9_Material_029_0_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2ff9c7b314e18295cd1b8d78bd2685f0"/>
+	</StaticMesh>
+	<StaticMesh label="REAR_HEADLIGHT_GLASS_Material_018_0" name="REAR_HEADLIGHT_GLASS_Material_018_0">
+		<Material id="0" name="Material_018"/>
+		<file path="bmw_m4_g82_coupe__free__high-detail_Assets/REAR_HEADLIGHT_GLASS_Material_018_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="68578955b01d1864897ed4cfed399621"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Material_017">
+		<Expressions>
+			<Color constant="(R=0.000685,G=0.000685,B=0.000685,A=1.000000)"/>
+			<Scalar constant="0.998098"/>
+			<Scalar constant="0.617523"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_016">
+		<Expressions>
+			<Color constant="(R=0.144307,G=0.144307,B=0.144307,A=1.000000)"/>
+			<Scalar constant="0.559240"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_025">
+		<Expressions>
+			<Color constant="(R=0.492192,G=0.492192,B=0.492192,A=1.000000)"/>
+			<Scalar constant="0.985908"/>
+			<Scalar constant="0.580951"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_013">
+		<Expressions>
+			<Color constant="(R=0.707601,G=0.707601,B=0.707601,A=1.000000)"/>
+			<Scalar constant="0.717716"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_004">
+		<Expressions>
+			<Color constant="(R=0.004038,G=0.004038,B=0.004038,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.999097"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_015">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.186484,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.766479"/>
+			<Scalar constant="0.148188"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_001">
+		<Expressions>
+			<Color constant="(R=0.921356,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.784764"/>
+			<Scalar constant="0.446855"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_011">
+		<Expressions>
+			<Color constant="(R=0.561239,G=0.561239,B=0.561239,A=1.000000)"/>
+			<Scalar constant="0.644573"/>
+			<Scalar constant="0.099426"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_021">
+		<Expressions>
+			<Color constant="(R=0.757970,G=0.757970,B=0.757970,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.276188"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_019">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.507808"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_014">
+		<Expressions>
+			<Color constant="(R=0.004263,G=0.020808,B=0.800243,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.983550"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_009">
+		<Expressions>
+			<Color constant="(R=0.738848,G=0.738848,B=0.738848,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.834789"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_005">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="model_19__0">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.600000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_006">
+		<Expressions>
+			<Color constant="(R=0.388979,G=0.504976,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.900751"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_012">
+		<Expressions>
+			<Color constant="(R=0.029341,G=0.029341,B=0.029341,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.111616"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_026">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.711621"/>
+			<Scalar constant="0.696761"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="Material_026_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_024">
+		<Expressions>
+			<Texture PathName="Material_024_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.465141"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_027">
+		<Expressions>
+			<Texture PathName="Material_027_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.982638"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_028">
+		<Expressions>
+			<Color constant="(R=0.063160,G=0.000000,B=0.004100,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.985262"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_031">
+		<Expressions>
+			<Texture PathName="Material_031_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.550475"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_030">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.821336"/>
+			<Scalar constant="0.519999"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_020">
+		<Expressions>
+			<Color constant="(R=0.800055,G=0.000000,B=0.005685,A=1.000000)"/>
+			<Scalar constant="0.888384"/>
+			<Scalar constant="0.239617"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_022">
+		<Expressions>
+			<Color constant="(R=0.800086,G=0.000000,B=0.002975,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.337141"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_002">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.699431"/>
+			<Scalar constant="0.391998"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_032">
+		<Expressions>
+			<Color constant="(R=0.050874,G=0.050874,B=0.050874,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.988624"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_023">
+		<Expressions>
+			<Color constant="(R=0.169681,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.650669"/>
+			<Scalar constant="0.550475"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_003">
+		<Expressions>
+			<Color constant="(R=0.532921,G=0.532921,B=0.532921,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.422474"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_008">
+		<Expressions>
+			<Color constant="(R=0.131280,G=0.131280,B=0.131280,A=1.000000)"/>
+			<Scalar constant="0.358096"/>
+			<Scalar constant="0.282284"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_007">
+		<Expressions>
+			<Color constant="(R=0.014349,G=0.014349,B=0.014349,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.355427"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_010">
+		<Expressions>
+			<Color constant="(R=0.179049,G=0.179049,B=0.179049,A=1.000000)"/>
+			<Scalar constant="0.681145"/>
+			<Scalar constant="0.361522"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_029">
+		<Expressions>
+			<Color constant="(R=0.082562,G=0.082562,B=0.082562,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.981539"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_018">
+		<Expressions>
+			<Color constant="(R=0.246956,G=0.122815,B=0.143259,A=1.000000)"/>
+			<Scalar constant="0.473906"/>
+			<Scalar constant="0.129902"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="Material_026_normal_png" file="bmw_m4_g82_coupe__free__high-detail_Assets\Material_026_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="4c7a1c23d914b5709d7a00ecc48245f4"/>
+	</Texture>
+	<Texture name="Material_024_baseColor_png" file="bmw_m4_g82_coupe__free__high-detail_Assets\Material_024_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="8ebdae68fa44a0afc4330d3420b6b514"/>
+	</Texture>
+	<Texture name="Material_027_baseColor_png" file="bmw_m4_g82_coupe__free__high-detail_Assets\Material_027_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="191b843b651b3ddca2e410b1556b1499"/>
+	</Texture>
+	<Texture name="Material_031_baseColor_png" file="bmw_m4_g82_coupe__free__high-detail_Assets\Material_031_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="4f277161c7fc14dca83aa8e068f9c80d"/>
+	</Texture>
+	<Export Duration="5.0"/>
+</DatasmithUnrealScene>

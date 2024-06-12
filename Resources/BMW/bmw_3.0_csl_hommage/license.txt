@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW 3.0 CSL Hommage
+* source:	https://sketchfab.com/3d-models/bmw-30-csl-hommage-e6e573fca0134be58ca5c44e4d27b7ff
+* author:	orgknighthvrblx (https://sketchfab.com/orgknighthvrblx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW 3.0 CSL Hommage" (https://sketchfab.com/3d-models/bmw-30-csl-hommage-e6e573fca0134be58ca5c44e4d27b7ff) by orgknighthvrblx (https://sketchfab.com/orgknighthvrblx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

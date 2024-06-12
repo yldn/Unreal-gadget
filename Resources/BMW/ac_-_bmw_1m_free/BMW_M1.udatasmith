@@ -1,0 +1,3144 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.11"/>
+	<User ID="yang" OS="Windows 10"/>
+	<Actor name="Sketchfab_model" layer="Scene Collection">
+		<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707107" qx="0.707107" qy="-0.000000" qz="-0.000000" sx="1.176471" sy="1.176471" sz="1.176471"/>
+		<children visible="True">
+			<Actor name="6c74ab7139bf4bce8cc8312b4b11fc77_fbx" layer="Scene Collection">
+				<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+				<children visible="True">
+					<Actor name="RootNode" layer="Scene Collection">
+						<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+						<children visible="True">
+							<Actor name="FBX__BMW_1M_2011_test_fbx" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+								<children visible="True">
+									<Actor name="brake_light_1" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="brake_light_1_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="brake_light_1_2_Fanali_POSTERIORI_TS_0" layer="Scene Collection">
+														<mesh name="brake_light_1_2_Fanali_POSTERIORI_TS_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="brake_light_2" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="brake_light_2_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="brake_light_2_2_Fanali_POSTERIORI_TS_0" layer="Scene Collection">
+														<mesh name="brake_light_2_2_Fanali_POSTERIORI_TS_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="CINTURE_ON" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="CINTURE_ON_SUB0" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="CINTURE_ON_SUB0_INT_CintureSicurezza_0" layer="Scene Collection">
+														<mesh name="CINTURE_ON_SUB0_INT_CintureSicurezza_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="CINTURE_ON_SUB1" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="CINTURE_ON_SUB1_INT_Cromato_0" layer="Scene Collection">
+														<mesh name="CINTURE_ON_SUB1_INT_Cromato_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="CINTURE_ON_SUB2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="CINTURE_ON_SUB2_INT_Plaastica_NERA_0" layer="Scene Collection">
+														<mesh name="CINTURE_ON_SUB2_INT_Plaastica_NERA_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="COCKPIT_HR" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="ARROW_FUEL" layer="Scene Collection">
+												<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_RED_Needle_C" layer="Scene Collection">
+														<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="GEO_RED_Needle_C_2" layer="Scene Collection">
+																<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="GEO_RED_Needle_C_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="GEO_RED_Needle_C_2_INT_Plaastica_NERA_0"/>
+																		<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+													<Actor name="plastic_sp7" layer="Scene Collection">
+														<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="plastic_sp7_2" layer="Scene Collection">
+																<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="plastic_sp7_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="plastic_sp7_2_INT_Plaastica_NERA_0"/>
+																		<Transform tx="49.290688" ty="52.775169" tz="104.216492" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="ARROW_FUEL1" layer="Scene Collection">
+												<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_RED_Needle_D" layer="Scene Collection">
+														<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="GEO_RED_Needle_D_2" layer="Scene Collection">
+																<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="GEO_RED_Needle_D_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="GEO_RED_Needle_D_2_INT_Plaastica_NERA_0"/>
+																		<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+													<Actor name="plastic_sp8" layer="Scene Collection">
+														<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="plastic_sp8_2" layer="Scene Collection">
+																<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="plastic_sp8_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="plastic_sp8_2_INT_Plaastica_NERA_0"/>
+																		<Transform tx="34.948402" ty="52.768211" tz="104.186775" qw="0.703202" qx="-0.081057" qy="0.701708" qz="-0.080884" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="ARROW_RPM" layer="Scene Collection">
+												<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_needle1" layer="Scene Collection">
+														<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="GEO_needle1_2" layer="Scene Collection">
+																<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="GEO_needle1_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="GEO_needle1_2_INT_Plaastica_NERA_0"/>
+																		<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="GEO_RED_Needle_B" layer="Scene Collection">
+																<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<Actor name="GEO_RED_Needle_B_2" layer="Scene Collection">
+																		<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																		<children visible="True">
+																			<ActorMesh name="GEO_RED_Needle_B_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																				<mesh name="GEO_RED_Needle_B_2_INT_Plaastica_NERA_0"/>
+																				<Transform tx="35.135551" ty="52.886456" tz="106.091240" qw="0.913391" qx="-0.105101" qy="0.390704" qz="-0.044957" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																			</ActorMesh>
+																		</children>
+																	</Actor>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="ARROW_SPEED" layer="Scene Collection">
+												<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_needle" layer="Scene Collection">
+														<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="GEO_needle_2" layer="Scene Collection">
+																<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="GEO_needle_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="GEO_needle_2_INT_Plaastica_NERA_0"/>
+																		<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="GEO_RED_Needle_A" layer="Scene Collection">
+																<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<Actor name="GEO_RED_Needle_A_2" layer="Scene Collection">
+																		<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																		<children visible="True">
+																			<ActorMesh name="GEO_RED_Needle_A_2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																				<mesh name="GEO_RED_Needle_A_2_INT_Plaastica_NERA_0"/>
+																				<Transform tx="49.366535" ty="52.886456" tz="106.091240" qw="0.919101" qx="-0.105758" qy="0.377076" qz="-0.043389" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																			</ActorMesh>
+																		</children>
+																	</Actor>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="CINTURE_OFF" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="CINTURE_OFF_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="CINTURE_OFF_SUB0_INT_CintureSicurezza_0" layer="Scene Collection">
+																<mesh name="CINTURE_OFF_SUB0_INT_CintureSicurezza_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="CINTURE_OFF_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="CINTURE_OFF_SUB1_INT_Cromato_0" layer="Scene Collection">
+																<mesh name="CINTURE_OFF_SUB1_INT_Cromato_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="CINTURE_OFF_SUB2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="CINTURE_OFF_SUB2_INT_Plaastica_NERA_0" layer="Scene Collection">
+																<mesh name="CINTURE_OFF_SUB2_INT_Plaastica_NERA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="GEO_Guaina_Cambio" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_Guaina_Cambio_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="GEO_Guaina_Cambio_SUB0_INT_Velluto_RIG_0" layer="Scene Collection">
+																<mesh name="GEO_Guaina_Cambio_SUB0_INT_Velluto_RIG_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="GEO_Guaina_Cambio_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="GEO_Guaina_Cambio_SUB1_INT_Cuciture_skinned_0" layer="Scene Collection">
+																<mesh name="GEO_Guaina_Cambio_SUB1_INT_Cuciture_skinned_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="GEO_INT_Dials" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_INT_Dials_2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="GEO_INT_Dials_2_INT_Display_0" layer="Scene Collection">
+																<mesh name="GEO_INT_Dials_2_INT_Display_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="GEO_INT_LCD" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="GEO_INT_LCD_2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="GEO_INT_LCD_2_INT_Display_0" layer="Scene Collection">
+																<mesh name="GEO_INT_LCD_2_INT_Display_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="IN_rear_Glass" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="IN_rear_Glass_2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="IN_rear_Glass_2_VETRI_defrost_interno_0" layer="Scene Collection">
+																<mesh name="IN_rear_Glass_2_VETRI_defrost_interno_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="polymsh259" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh259_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB0_INT_Velluto_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB0_INT_Velluto_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB1_INT_Stoffa_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB1_INT_Stoffa_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB10" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB10_INT_CintureSicurezza_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB10_INT_CintureSicurezza_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB11" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB11_INT_Plaastica_Opaca_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB11_INT_Plaastica_Opaca_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB12" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB12_INT_Display_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB12_INT_Display_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB14" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB14_INT_VetroDisplay_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB14_INT_VetroDisplay_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB15" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB15_INT_Cuciture_skinned_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB15_INT_Cuciture_skinned_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB16" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB16_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB16_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB17" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB17_INT_Display_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB17_INT_Display_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB18" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB18_INT_Lucina_Specchietto_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB18_INT_Lucina_Specchietto_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB19" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB19_INT_Rotelline_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB19_INT_Rotelline_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB2_INT_Pedana_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB2_INT_Pedana_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB20" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB20_INT_Gomma_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB20_INT_Gomma_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB3" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB3_INT_Skin_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB3_INT_Skin_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB4" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB4_INT_Plaastica_NERA_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB4_INT_Plaastica_NERA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB5" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB5_INT_Metallo_Nero_Rosso_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB5_INT_Metallo_Nero_Rosso_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB6" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB6_INT_Display_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB6_INT_Display_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB7" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB7_INT_Cromato_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB7_INT_Cromato_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB8" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB8_LIVREA_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB8_LIVREA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh259_SUB9" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh259_SUB9_INT_Pedali_0" layer="Scene Collection">
+																<mesh name="polymsh259_SUB9_INT_Pedali_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="SHIFT_HR" layer="Scene Collection">
+												<Transform tx="-0.919765" ty="19.799746" tz="56.451927" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="SHIFT_HR1" layer="Scene Collection">
+														<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="GEO_Cambio" layer="Scene Collection">
+																<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<Actor name="GEO_Cambio_SUB0" layer="Scene Collection">
+																		<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																		<children visible="True">
+																			<ActorMesh name="GEO_Cambio_SUB0_INT_Display_0" layer="Scene Collection">
+																				<mesh name="GEO_Cambio_SUB0_INT_Display_0"/>
+																				<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																			</ActorMesh>
+																		</children>
+																	</Actor>
+																	<Actor name="GEO_Cambio_SUB1" layer="Scene Collection">
+																		<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																		<children visible="True">
+																			<ActorMesh name="GEO_Cambio_SUB1_INT_Plaastica_NERA_0" layer="Scene Collection">
+																				<mesh name="GEO_Cambio_SUB1_INT_Plaastica_NERA_0"/>
+																				<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																			</ActorMesh>
+																		</children>
+																	</Actor>
+																	<Actor name="GEO_Cambio_SUB2" layer="Scene Collection">
+																		<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																		<children visible="True">
+																			<ActorMesh name="GEO_Cambio_SUB2_INT_Cromato_0" layer="Scene Collection">
+																				<mesh name="GEO_Cambio_SUB2_INT_Cromato_0"/>
+																				<Transform tx="-0.919765" ty="18.822102" tz="62.417732" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																			</ActorMesh>
+																		</children>
+																	</Actor>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="STEER_HR" layer="Scene Collection">
+												<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh258" layer="Scene Collection">
+														<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="polymsh258_SUB0" layer="Scene Collection">
+																<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh258_SUB0_INT_Skin_0" layer="Scene Collection">
+																		<mesh name="polymsh258_SUB0_INT_Skin_0"/>
+																		<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh258_SUB1" layer="Scene Collection">
+																<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh258_SUB1_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="polymsh258_SUB1_INT_Plaastica_NERA_0"/>
+																		<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh258_SUB2" layer="Scene Collection">
+																<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh258_SUB2_LOGHI_normal_MAP_0" layer="Scene Collection">
+																		<mesh name="polymsh258_SUB2_LOGHI_normal_MAP_0"/>
+																		<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh258_SUB3" layer="Scene Collection">
+																<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh258_SUB3_INT_Cuciture_skinned_0" layer="Scene Collection">
+																		<mesh name="polymsh258_SUB3_INT_Cuciture_skinned_0"/>
+																		<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh258_SUB4" layer="Scene Collection">
+																<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh258_SUB4_INT_Cromato_0" layer="Scene Collection">
+																		<mesh name="polymsh258_SUB4_INT_Cromato_0"/>
+																		<Transform tx="42.170570" ty="31.990770" tz="99.914780" qw="0.981627" qx="-0.190809" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="DISC_LF" layer="Scene Collection">
+										<Transform tx="87.348846" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="Geometry110" layer="Scene Collection">
+												<Transform tx="87.348846" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="Geometry110_2" layer="Scene Collection">
+														<Transform tx="87.348846" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="Geometry110_2_Dischi_Freni_0" layer="Scene Collection">
+																<mesh name="Geometry110_2_Dischi_Freni_0"/>
+																<Transform tx="87.348846" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="DISC_LR" layer="Scene Collection">
+										<Transform tx="87.378426" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="Geometry93" layer="Scene Collection">
+												<Transform tx="87.378426" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="Geometry93_2" layer="Scene Collection">
+														<Transform tx="87.378426" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="Geometry93_2_Dischi_Freni_0" layer="Scene Collection">
+																<mesh name="Geometry93_2_Dischi_Freni_0"/>
+																<Transform tx="87.378426" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="DISC_RF" layer="Scene Collection">
+										<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="Geometry112" layer="Scene Collection">
+												<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="Geometry112_2" layer="Scene Collection">
+														<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="Geometry112_2_Dischi_Freni_0" layer="Scene Collection">
+																<mesh name="Geometry112_2_Dischi_Freni_0"/>
+																<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="DISC_RR" layer="Scene Collection">
+										<Transform tx="-87.374222" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="Geometry114" layer="Scene Collection">
+												<Transform tx="-87.374222" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="Geometry114_2" layer="Scene Collection">
+														<Transform tx="-87.374222" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="Geometry114_2_Dischi_Freni_0" layer="Scene Collection">
+																<mesh name="Geometry114_2_Dischi_Freni_0"/>
+																<Transform tx="-87.374222" ty="-155.927444" tz="38.852032" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="DOOR_L" layer="Scene Collection">
+										<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="DOOR_L1" layer="Scene Collection">
+												<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh266" layer="Scene Collection">
+														<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="polymsh266_SUB0" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB0_INT_Cuciture_skinned_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB0_INT_Cuciture_skinned_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB1" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB1_INT_Skin_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB1_INT_Skin_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB2" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB2_INT_Velluto_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB2_INT_Velluto_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB3" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB3_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB3_INT_Plaastica_NERA_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB4" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB4_LIVREA_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB4_LIVREA_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB5" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB5_INT_Door_Grid_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB5_INT_Door_Grid_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB6" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB6_INT_Cromato_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB6_INT_Cromato_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB7" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB7_INT_Gomma_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB7_INT_Gomma_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB8" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB8_INT_Plaastica_Opaca_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB8_INT_Plaastica_Opaca_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh266_SUB9" layer="Scene Collection">
+																<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh266_SUB9_INT_Speakers_0" layer="Scene Collection">
+																		<mesh name="polymsh266_SUB9_INT_Speakers_0"/>
+																		<Transform tx="95.748932" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="polymsh_detached29" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh_detached29_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh_detached29_SUB0_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh_detached29_SUB0_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh_detached29_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh_detached29_SUB1_LIVREA_0" layer="Scene Collection">
+																<mesh name="polymsh_detached29_SUB1_LIVREA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh_detached29_SUB2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh_detached29_SUB2_MIRROR_0" layer="Scene Collection">
+																<mesh name="polymsh_detached29_SUB2_MIRROR_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh_detached29_SUB3" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh_detached29_SUB3_VETRI_Fanali_0" layer="Scene Collection">
+																<mesh name="polymsh_detached29_SUB3_VETRI_Fanali_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="DOOR_R" layer="Scene Collection">
+										<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="DOOR_R1" layer="Scene Collection">
+												<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh267" layer="Scene Collection">
+														<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="polymsh267_SUB0" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB0_INT_Cuciture_skinned_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB0_INT_Cuciture_skinned_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB1" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB1_INT_Skin_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB1_INT_Skin_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB2" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB2_INT_Velluto_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB2_INT_Velluto_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB3" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB3_INT_Plaastica_NERA_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB3_INT_Plaastica_NERA_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB4" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB4_LIVREA_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB4_LIVREA_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB5" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB5_INT_Door_Grid_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB5_INT_Door_Grid_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB6" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB6_INT_Cromato_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB6_INT_Cromato_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB7" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB7_INT_Gomma_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB7_INT_Gomma_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB8" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB8_INT_Plaastica_Opaca_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB8_INT_Plaastica_Opaca_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+															<Actor name="polymsh267_SUB9" layer="Scene Collection">
+																<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh267_SUB9_INT_Speakers_0" layer="Scene Collection">
+																		<mesh name="polymsh267_SUB9_INT_Speakers_0"/>
+																		<Transform tx="-95.752426" ty="81.969887" tz="99.015511" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="polymsh62" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh62_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh62_SUB0_VETRI_Fanali_0" layer="Scene Collection">
+																<mesh name="polymsh62_SUB0_VETRI_Fanali_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh62_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh62_SUB1_LIVREA_0" layer="Scene Collection">
+																<mesh name="polymsh62_SUB1_LIVREA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh62_SUB2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh62_SUB2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh62_SUB2_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh62_SUB3" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh62_SUB3_MIRROR_0" layer="Scene Collection">
+																<mesh name="polymsh62_SUB3_MIRROR_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451973" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="FRONT_BUMPER" layer="Scene Collection">
+										<Transform tx="0.000000" ty="229.868195" tz="80.762848" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh66" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh66_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh66_SUB0_Chassis_0" layer="Scene Collection">
+																<mesh name="polymsh66_SUB0_Chassis_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh66_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh66_SUB1_LIVREA_0" layer="Scene Collection">
+																<mesh name="polymsh66_SUB1_LIVREA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh66_SUB2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh66_SUB2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh66_SUB2_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh66_SUB3" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh66_SUB3_GRIGLIA_NM_0" layer="Scene Collection">
+																<mesh name="polymsh66_SUB3_GRIGLIA_NM_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh66_SUB4" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh66_SUB4_GAS_CAP_NM_0" layer="Scene Collection">
+																<mesh name="polymsh66_SUB4_GAS_CAP_NM_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451962" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="front_light_1" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="front_light_1_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="front_light_1_2_Dettaglio_Faro_0" layer="Scene Collection">
+														<mesh name="front_light_1_2_Dettaglio_Faro_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="front_light_2" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="front_light_2_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="front_light_2_2_FANALI_Anteriori_0" layer="Scene Collection">
+														<mesh name="front_light_2_2_FANALI_Anteriori_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="front_light_3" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="front_light_3_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="front_light_3_2_Dettaglio_Faro_0" layer="Scene Collection">
+														<mesh name="front_light_3_2_Dettaglio_Faro_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="MOTORHOOD" layer="Scene Collection">
+										<Transform tx="0.000000" ty="83.654541" tz="108.121284" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh_detached114" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh_detached114_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh_detached114_SUB0_LOGHI_normal_MAP_0" layer="Scene Collection">
+																<mesh name="polymsh_detached114_SUB0_LOGHI_normal_MAP_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh_detached114_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh_detached114_SUB1_LIVREA_0" layer="Scene Collection">
+																<mesh name="polymsh_detached114_SUB1_LIVREA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="polymsh262" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh262_SUB0" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh262_SUB0_FANALI_Anteriori_0" layer="Scene Collection">
+														<mesh name="polymsh262_SUB0_FANALI_Anteriori_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh262_SUB1" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh262_SUB1_Dettaglio_Faro_0" layer="Scene Collection">
+														<mesh name="polymsh262_SUB1_Dettaglio_Faro_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh262_SUB2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh262_SUB2_FANALI_Anteriori_0" layer="Scene Collection">
+														<mesh name="polymsh262_SUB2_FANALI_Anteriori_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="polymsh263" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh263_SUB0" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh263_SUB0_Fanali_POSTERIORI_OS_0" layer="Scene Collection">
+														<mesh name="polymsh263_SUB0_Fanali_POSTERIORI_OS_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh263_SUB1" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh263_SUB1_FARI_Poseriori_EXTRA2_0" layer="Scene Collection">
+														<mesh name="polymsh263_SUB1_FARI_Poseriori_EXTRA2_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh263_SUB2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh263_SUB2_FARI_Poseriori_EXTRA2_0" layer="Scene Collection">
+														<mesh name="polymsh263_SUB2_FARI_Poseriori_EXTRA2_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="polymsh65" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh65_SUB0" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB0_VETRI_Nero_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB0_VETRI_Nero_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB1" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB1_VETRI_Fanali_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB1_VETRI_Fanali_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB2_Chassis_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB2_Chassis_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB3" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB3_LIVREA_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB3_LIVREA_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB4" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB4_LOGHI_normal_MAP_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB4_LOGHI_normal_MAP_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB5" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB5_GAS_CAP_NM_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB5_GAS_CAP_NM_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB6" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB6_Chassis_METAL_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB6_Chassis_METAL_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+											<Actor name="polymsh65_SUB7" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh65_SUB7_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+														<mesh name="polymsh65_SUB7_PLASTICA_Nera_lucida_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="polymsh_detached105" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh_detached105_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh_detached105_2_VETRI_Fanali_0" layer="Scene Collection">
+														<mesh name="polymsh_detached105_2_VETRI_Fanali_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="polymsh_detached112" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh_detached112_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh_detached112_2_VETRI_Fanali_0" layer="Scene Collection">
+														<mesh name="polymsh_detached112_2_VETRI_Fanali_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="polymsh_detached116" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh_detached116_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="polymsh_detached116_2_MIRROR_0" layer="Scene Collection">
+														<mesh name="polymsh_detached116_2_MIRROR_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="REAR_BUMPER" layer="Scene Collection">
+										<Transform tx="-0.000000" ty="-251.278595" tz="81.275772" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh33" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh33_SUB0" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh33_SUB0_LIVREA_0" layer="Scene Collection">
+																<mesh name="polymsh33_SUB0_LIVREA_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh33_SUB1" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh33_SUB1_Chassis_0" layer="Scene Collection">
+																<mesh name="polymsh33_SUB1_Chassis_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh33_SUB2" layer="Scene Collection">
+														<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh33_SUB2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh33_SUB2_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="0.000000" ty="0.000000" tz="16.451990" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="rear_light_1" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="rear_light_1_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="rear_light_1_2_Fanali_POSTERIORI_OS_0" layer="Scene Collection">
+														<mesh name="rear_light_1_2_Fanali_POSTERIORI_OS_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="rear_light_2" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="rear_light_2_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="rear_light_2_2_Fanali_POSTERIORI_OS_0" layer="Scene Collection">
+														<mesh name="rear_light_2_2_Fanali_POSTERIORI_OS_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="retro_light_1" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="retro_light_1_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="retro_light_1_2_Fanali_POSTERIORI_OS_0" layer="Scene Collection">
+														<mesh name="retro_light_1_2_Fanali_POSTERIORI_OS_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="Sospensione__Frontale" layer="Scene Collection">
+										<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="Sospensione__Frontale_2" layer="Scene Collection">
+												<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<ActorMesh name="Sospensione__Frontale_2_Chassis_0" layer="Scene Collection">
+														<mesh name="Sospensione__Frontale_2_Chassis_0"/>
+														<Transform tx="0.000000" ty="0.000000" tz="16.451979" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+													</ActorMesh>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="SUSP_LF" layer="Scene Collection">
+										<Transform tx="87.346184" ty="153.679352" tz="38.804047" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh71" layer="Scene Collection">
+												<Transform tx="87.346184" ty="153.679352" tz="38.804047" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh71_SUB0" layer="Scene Collection">
+														<Transform tx="87.346184" ty="153.679352" tz="38.804047" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh71_SUB0_Chassis_0" layer="Scene Collection">
+																<mesh name="polymsh71_SUB0_Chassis_0"/>
+																<Transform tx="87.346184" ty="153.679352" tz="38.804047" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh71_SUB1" layer="Scene Collection">
+														<Transform tx="87.346184" ty="153.679352" tz="38.804047" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh71_SUB1_CAR_PinzaFreni_0" layer="Scene Collection">
+																<mesh name="polymsh71_SUB1_CAR_PinzaFreni_0"/>
+																<Transform tx="87.346184" ty="153.679352" tz="38.804047" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="SUSP_LR" layer="Scene Collection">
+										<Transform tx="87.378426" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh69" layer="Scene Collection">
+												<Transform tx="87.378426" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh69_SUB0" layer="Scene Collection">
+														<Transform tx="87.378426" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh69_SUB0_CAR_PinzaFreni_0" layer="Scene Collection">
+																<mesh name="polymsh69_SUB0_CAR_PinzaFreni_0"/>
+																<Transform tx="87.378426" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh69_SUB1" layer="Scene Collection">
+														<Transform tx="87.378426" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh69_SUB1_Chassis_0" layer="Scene Collection">
+																<mesh name="polymsh69_SUB1_Chassis_0"/>
+																<Transform tx="87.378426" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="SUSP_RF" layer="Scene Collection">
+										<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh72" layer="Scene Collection">
+												<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh72_SUB0" layer="Scene Collection">
+														<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh72_SUB0_Chassis_0" layer="Scene Collection">
+																<mesh name="polymsh72_SUB0_Chassis_0"/>
+																<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh72_SUB1" layer="Scene Collection">
+														<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh72_SUB1_CAR_PinzaFreni_0" layer="Scene Collection">
+																<mesh name="polymsh72_SUB1_CAR_PinzaFreni_0"/>
+																<Transform tx="-87.351051" ty="153.677277" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="SUSP_RR" layer="Scene Collection">
+										<Transform tx="-87.374222" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh73" layer="Scene Collection">
+												<Transform tx="-87.374222" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh73_SUB0" layer="Scene Collection">
+														<Transform tx="-87.374222" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh73_SUB0_CAR_PinzaFreni_0" layer="Scene Collection">
+																<mesh name="polymsh73_SUB0_CAR_PinzaFreni_0"/>
+																<Transform tx="-87.374222" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+													<Actor name="polymsh73_SUB1" layer="Scene Collection">
+														<Transform tx="-87.374222" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh73_SUB1_Chassis_0" layer="Scene Collection">
+																<mesh name="polymsh73_SUB1_Chassis_0"/>
+																<Transform tx="-87.374222" ty="-155.928619" tz="38.834919" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="WHEEL_LF" layer="Scene Collection">
+										<Transform tx="87.578369" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<ActorMesh name="WHEEL_LF_LOGHI_RIM_0" layer="Scene Collection">
+												<mesh name="WHEEL_LF_LOGHI_RIM_0"/>
+												<Transform tx="87.578369" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_LF_RT_Battistrada_0" layer="Scene Collection">
+												<mesh name="WHEEL_LF_RT_Battistrada_0"/>
+												<Transform tx="87.578369" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_LF_RT_rim_0" layer="Scene Collection">
+												<mesh name="WHEEL_LF_RT_rim_0"/>
+												<Transform tx="87.578369" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+										</children>
+									</Actor>
+									<Actor name="WHEEL_LR" layer="Scene Collection">
+										<Transform tx="87.655273" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<ActorMesh name="WHEEL_LR_LOGHI_RIM_0" layer="Scene Collection">
+												<mesh name="WHEEL_LR_LOGHI_RIM_0"/>
+												<Transform tx="87.655273" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_LR_RT_Battistrada_0" layer="Scene Collection">
+												<mesh name="WHEEL_LR_RT_Battistrada_0"/>
+												<Transform tx="87.655273" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_LR_RT_rim_0" layer="Scene Collection">
+												<mesh name="WHEEL_LR_RT_rim_0"/>
+												<Transform tx="87.655273" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+										</children>
+									</Actor>
+									<Actor name="WHEEL_RF" layer="Scene Collection">
+										<Transform tx="-87.580566" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<ActorMesh name="WHEEL_RF_LOGHI_RIM_0" layer="Scene Collection">
+												<mesh name="WHEEL_RF_LOGHI_RIM_0"/>
+												<Transform tx="-87.580566" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_RF_RT_Battistrada_0" layer="Scene Collection">
+												<mesh name="WHEEL_RF_RT_Battistrada_0"/>
+												<Transform tx="-87.580566" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_RF_RT_rim_0" layer="Scene Collection">
+												<mesh name="WHEEL_RF_RT_rim_0"/>
+												<Transform tx="-87.580566" ty="153.677307" tz="38.806690" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+										</children>
+									</Actor>
+									<Actor name="WHEEL_RR" layer="Scene Collection">
+										<Transform tx="-87.651077" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<ActorMesh name="WHEEL_RR_LOGHI_RIM_0" layer="Scene Collection">
+												<mesh name="WHEEL_RR_LOGHI_RIM_0"/>
+												<Transform tx="-87.651077" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_RR_RT_Battistrada_0" layer="Scene Collection">
+												<mesh name="WHEEL_RR_RT_Battistrada_0"/>
+												<Transform tx="-87.651077" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+											<ActorMesh name="WHEEL_RR_RT_rim_0" layer="Scene Collection">
+												<mesh name="WHEEL_RR_RT_rim_0"/>
+												<Transform tx="-87.651077" ty="-155.927521" tz="38.852039" qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+											</ActorMesh>
+										</children>
+									</Actor>
+									<Actor name="WIPER_L" layer="Scene Collection">
+										<Transform tx="71.011124" ty="98.274071" tz="101.255241" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh18" layer="Scene Collection">
+												<Transform tx="71.011124" ty="98.274071" tz="101.255241" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh18_2" layer="Scene Collection">
+														<Transform tx="71.011124" ty="98.274071" tz="101.255241" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh18_2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh18_2_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="71.011124" ty="98.274071" tz="101.255241" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="WIPER_L1" layer="Scene Collection">
+												<Transform tx="9.739572" ty="95.482330" tz="112.754478" qw="0.924338" qx="-0.381574" qy="0.000546" qz="-0.000225" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh_detached" layer="Scene Collection">
+														<Transform tx="9.739572" ty="95.482330" tz="112.754478" qw="0.924338" qx="-0.381574" qy="0.000546" qz="-0.000225" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="polymsh_detached_2" layer="Scene Collection">
+																<Transform tx="9.739572" ty="95.482330" tz="112.754478" qw="0.924338" qx="-0.381574" qy="0.000546" qz="-0.000225" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh_detached_2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																		<mesh name="polymsh_detached_2_PLASTICA_Nera_lucida_0"/>
+																		<Transform tx="9.739572" ty="95.482330" tz="112.754478" qw="0.924338" qx="-0.381574" qy="0.000546" qz="-0.000225" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+									<Actor name="WIPER_R" layer="Scene Collection">
+										<Transform tx="13.826982" ty="106.328453" tz="103.649345" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+										<children visible="True">
+											<Actor name="polymsh19" layer="Scene Collection">
+												<Transform tx="13.826982" ty="106.328453" tz="103.649345" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh19_2" layer="Scene Collection">
+														<Transform tx="13.826982" ty="106.328453" tz="103.649345" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<ActorMesh name="polymsh19_2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																<mesh name="polymsh19_2_PLASTICA_Nera_lucida_0"/>
+																<Transform tx="13.826982" ty="106.328453" tz="103.649345" qw="0.980902" qx="-0.194502" qy="0.000000" qz="-0.000000" sx="0.011765" sy="0.011765" sz="0.011765"/>
+															</ActorMesh>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+											<Actor name="WIPER_R1" layer="Scene Collection">
+												<Transform tx="-49.385815" ty="91.837349" tz="112.608078" qw="0.915880" qx="-0.384285" qy="-0.071063" qz="0.091858" sx="0.011765" sy="0.011765" sz="0.011765"/>
+												<children visible="True">
+													<Actor name="polymsh_detached113" layer="Scene Collection">
+														<Transform tx="-49.385815" ty="91.837349" tz="112.608078" qw="0.915880" qx="-0.384285" qy="-0.071063" qz="0.091858" sx="0.011765" sy="0.011765" sz="0.011765"/>
+														<children visible="True">
+															<Actor name="polymsh_detached113_2" layer="Scene Collection">
+																<Transform tx="-49.385815" ty="91.837349" tz="112.608078" qw="0.915880" qx="-0.384285" qy="-0.071063" qz="0.091858" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																<children visible="True">
+																	<ActorMesh name="polymsh_detached113_2_PLASTICA_Nera_lucida_0" layer="Scene Collection">
+																		<mesh name="polymsh_detached113_2_PLASTICA_Nera_lucida_0"/>
+																		<Transform tx="-49.385815" ty="91.837349" tz="112.608078" qw="0.915880" qx="-0.384285" qy="-0.071063" qz="0.091858" sx="0.011765" sy="0.011765" sz="0.011765"/>
+																	</ActorMesh>
+																</children>
+															</Actor>
+														</children>
+													</Actor>
+												</children>
+											</Actor>
+										</children>
+									</Actor>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<Light name="Light" layer="Collection" type="PointLight" enabled="1">
+		<SourceSize value="10.000000"/>
+		<Intensity value="1000.000000"/>
+		<AttenuationRadius value="3162.277660"/>
+		<IntensityUnits value="Lumens"/>
+		<Color usetemp="0" temperature="6500.0" R="1.000000" G="1.000000" B="1.000000"/>
+		<Transform tx="407.624542" ty="-100.545395" tz="590.386230" qw="0.144014" qx="-0.442790" qy="0.040919" qz="0.884037" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Light>
+	<Camera name="Camera" layer="Collection">
+		<DepthOfField enabled="0"/>
+		<SensorWidth value="36.000000"/>
+		<SensorAspectRatio value="1.777778"/>
+		<FocusDistance value="1000.000000"/>
+		<FStop value="2.800000"/>
+		<FocalLength value="50.000000"/>
+		<Post/>
+		<Transform tx="735.889160" ty="692.579102" tz="495.830933" qw="0.359222" qx="0.212557" qy="0.084389" qz="-0.904797" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Camera>
+	<StaticMesh label="brake_light_1_2_Fanali_POSTERIORI_TS_0" name="brake_light_1_2_Fanali_POSTERIORI_TS_0">
+		<Material id="0" name="Fanali_POSTERIORI_TS"/>
+		<file path="BMW_M1_Assets/brake_light_1_2_Fanali_POSTERIORI_TS_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="76a4fee2e5b29f96d707278205af4d51"/>
+	</StaticMesh>
+	<StaticMesh label="brake_light_2_2_Fanali_POSTERIORI_TS_0" name="brake_light_2_2_Fanali_POSTERIORI_TS_0">
+		<Material id="0" name="Fanali_POSTERIORI_TS"/>
+		<file path="BMW_M1_Assets/brake_light_2_2_Fanali_POSTERIORI_TS_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="60787c9cc25b5a6b8450c50e3f196f14"/>
+	</StaticMesh>
+	<StaticMesh label="CINTURE_ON_SUB0_INT_CintureSicurezza_0" name="CINTURE_ON_SUB0_INT_CintureSicurezza_0">
+		<Material id="0" name="INT_CintureSicurezza"/>
+		<file path="BMW_M1_Assets/CINTURE_ON_SUB0_INT_CintureSicurezza_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8420603a10914929716edbc26a02a3fe"/>
+	</StaticMesh>
+	<StaticMesh label="CINTURE_ON_SUB1_INT_Cromato_0" name="CINTURE_ON_SUB1_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/CINTURE_ON_SUB1_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e06f2c6faa83a1635475b172ae298cfc"/>
+	</StaticMesh>
+	<StaticMesh label="CINTURE_ON_SUB2_INT_Plaastica_NERA_0" name="CINTURE_ON_SUB2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/CINTURE_ON_SUB2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="29176b751c088f06012f18988e68306c"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_RED_Needle_C_2_INT_Plaastica_NERA_0" name="GEO_RED_Needle_C_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_RED_Needle_C_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2a40708dd5188d383b6955ec9a3bc9dd"/>
+	</StaticMesh>
+	<StaticMesh label="plastic_sp7_2_INT_Plaastica_NERA_0" name="plastic_sp7_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/plastic_sp7_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f508464d244efe40b33bd3f5d3aa7365"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_RED_Needle_D_2_INT_Plaastica_NERA_0" name="GEO_RED_Needle_D_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_RED_Needle_D_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb5a8c35bb09c96ee4af49325f152e17"/>
+	</StaticMesh>
+	<StaticMesh label="plastic_sp8_2_INT_Plaastica_NERA_0" name="plastic_sp8_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/plastic_sp8_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="032fd54c5bb68738a3822960c3a5e637"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_needle1_2_INT_Plaastica_NERA_0" name="GEO_needle1_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_needle1_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2ed45bd2b8e9b38c9ba895a4c165d14d"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_RED_Needle_B_2_INT_Plaastica_NERA_0" name="GEO_RED_Needle_B_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_RED_Needle_B_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ca5f2024d2ef3467400b5edcd8867f5a"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_needle_2_INT_Plaastica_NERA_0" name="GEO_needle_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_needle_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="04f1d9f5c0e3c3b75041689731da167b"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_RED_Needle_A_2_INT_Plaastica_NERA_0" name="GEO_RED_Needle_A_2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_RED_Needle_A_2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="908c2f5b96b37fbb83ac489161c234a1"/>
+	</StaticMesh>
+	<StaticMesh label="CINTURE_OFF_SUB0_INT_CintureSicurezza_0" name="CINTURE_OFF_SUB0_INT_CintureSicurezza_0">
+		<Material id="0" name="INT_CintureSicurezza"/>
+		<file path="BMW_M1_Assets/CINTURE_OFF_SUB0_INT_CintureSicurezza_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="366d03089d2cce575e4682a1283bf02a"/>
+	</StaticMesh>
+	<StaticMesh label="CINTURE_OFF_SUB1_INT_Cromato_0" name="CINTURE_OFF_SUB1_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/CINTURE_OFF_SUB1_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ea1cea4dccc0b3a479548a8d12a9f49"/>
+	</StaticMesh>
+	<StaticMesh label="CINTURE_OFF_SUB2_INT_Plaastica_NERA_0" name="CINTURE_OFF_SUB2_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/CINTURE_OFF_SUB2_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e1efc2f8be120e8285e20ca4cbceb439"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_Guaina_Cambio_SUB0_INT_Velluto_RIG_0" name="GEO_Guaina_Cambio_SUB0_INT_Velluto_RIG_0">
+		<Material id="0" name="INT_Velluto_RIG"/>
+		<file path="BMW_M1_Assets/GEO_Guaina_Cambio_SUB0_INT_Velluto_RIG_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="01786f7a90c63b1ac446e843f6dcd954"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_Guaina_Cambio_SUB1_INT_Cuciture_skinned_0" name="GEO_Guaina_Cambio_SUB1_INT_Cuciture_skinned_0">
+		<Material id="0" name="INT_Cuciture_skinned"/>
+		<file path="BMW_M1_Assets/GEO_Guaina_Cambio_SUB1_INT_Cuciture_skinned_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1fa650ba9f9d324df1b2b6c0b2480b89"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_INT_Dials_2_INT_Display_0" name="GEO_INT_Dials_2_INT_Display_0">
+		<Material id="0" name="INT_Display"/>
+		<file path="BMW_M1_Assets/GEO_INT_Dials_2_INT_Display_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="effabc3e5dd8656b82b31df8d776ff40"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_INT_LCD_2_INT_Display_0" name="GEO_INT_LCD_2_INT_Display_0">
+		<Material id="0" name="INT_Display"/>
+		<file path="BMW_M1_Assets/GEO_INT_LCD_2_INT_Display_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fcf3459757f3359663c546b4dd4c245a"/>
+	</StaticMesh>
+	<StaticMesh label="IN_rear_Glass_2_VETRI_defrost_interno_0" name="IN_rear_Glass_2_VETRI_defrost_interno_0">
+		<Material id="0" name="VETRI_defrost_interno"/>
+		<file path="BMW_M1_Assets/IN_rear_Glass_2_VETRI_defrost_interno_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea5d90a31827fb3bc89a1b8315c5bfd3"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB0_INT_Velluto_0" name="polymsh259_SUB0_INT_Velluto_0">
+		<Material id="0" name="INT_Velluto"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB0_INT_Velluto_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="87385dbf91bfee9dd88261695de4c770"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB1_INT_Stoffa_0" name="polymsh259_SUB1_INT_Stoffa_0">
+		<Material id="0" name="INT_Stoffa"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB1_INT_Stoffa_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5eb9b334a421b545b79914ee0a47eaae"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB10_INT_CintureSicurezza_0" name="polymsh259_SUB10_INT_CintureSicurezza_0">
+		<Material id="0" name="INT_CintureSicurezza"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB10_INT_CintureSicurezza_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e24275bfce43253b9fd8f1bf2890c9de"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB11_INT_Plaastica_Opaca_0" name="polymsh259_SUB11_INT_Plaastica_Opaca_0">
+		<Material id="0" name="INT_Plaastica_Opaca"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB11_INT_Plaastica_Opaca_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d1170161d640c2139a4bc1a5087863f2"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB12_INT_Display_0" name="polymsh259_SUB12_INT_Display_0">
+		<Material id="0" name="INT_Display"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB12_INT_Display_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e511a2144b0fdc9081f6d62d7097f3ba"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB14_INT_VetroDisplay_0" name="polymsh259_SUB14_INT_VetroDisplay_0">
+		<Material id="0" name="INT_VetroDisplay"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB14_INT_VetroDisplay_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6dadd3e15a7e6107c844afb082f1244a"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB15_INT_Cuciture_skinned_0" name="polymsh259_SUB15_INT_Cuciture_skinned_0">
+		<Material id="0" name="INT_Cuciture_skinned"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB15_INT_Cuciture_skinned_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f408f4f9921427aa7d822649dc7b3ff8"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB16_PLASTICA_Nera_lucida_0" name="polymsh259_SUB16_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB16_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="649b9dbe9e5d7874d73c0d278c09a08f"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB17_INT_Display_0" name="polymsh259_SUB17_INT_Display_0">
+		<Material id="0" name="INT_Display"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB17_INT_Display_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="08a4eb126802bb1dce762bbffd71905e"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB18_INT_Lucina_Specchietto_0" name="polymsh259_SUB18_INT_Lucina_Specchietto_0">
+		<Material id="0" name="INT_Lucina_Specchietto"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB18_INT_Lucina_Specchietto_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a736adc3510281b7eaa35c5c200a613a"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB19_INT_Rotelline_0" name="polymsh259_SUB19_INT_Rotelline_0">
+		<Material id="0" name="INT_Rotelline"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB19_INT_Rotelline_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7222d508479c23cf676636493c0c0ef0"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB2_INT_Pedana_0" name="polymsh259_SUB2_INT_Pedana_0">
+		<Material id="0" name="INT_Pedana"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB2_INT_Pedana_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="24e1af83ba69c0f48ecbc015e5770ed8"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB20_INT_Gomma_0" name="polymsh259_SUB20_INT_Gomma_0">
+		<Material id="0" name="INT_Gomma"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB20_INT_Gomma_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5f21d837e2984d1d0c38d402fc4f31eb"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB3_INT_Skin_0" name="polymsh259_SUB3_INT_Skin_0">
+		<Material id="0" name="INT_Skin"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB3_INT_Skin_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5a209f33b2e8fb6ad0620f8ef51efa31"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB4_INT_Plaastica_NERA_0" name="polymsh259_SUB4_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB4_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5e930bfa551a186eb153e133ad345f8a"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB5_INT_Metallo_Nero_Rosso_0" name="polymsh259_SUB5_INT_Metallo_Nero_Rosso_0">
+		<Material id="0" name="INT_Metallo_Nero_Rosso"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB5_INT_Metallo_Nero_Rosso_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b34e4118ffa757859c9b28e3282fc09c"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB6_INT_Display_0" name="polymsh259_SUB6_INT_Display_0">
+		<Material id="0" name="INT_Display"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB6_INT_Display_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="14ee714c8682e188e0b2bd67c0d4716d"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB7_INT_Cromato_0" name="polymsh259_SUB7_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB7_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5683b70fe1ce31c5641dab6a2de22658"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB8_LIVREA_0" name="polymsh259_SUB8_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB8_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="edffa57841816333c656ec3b00445cc3"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh259_SUB9_INT_Pedali_0" name="polymsh259_SUB9_INT_Pedali_0">
+		<Material id="0" name="INT_Pedali"/>
+		<file path="BMW_M1_Assets/polymsh259_SUB9_INT_Pedali_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ebfb8cb60a123bb5503cfd16de9d94db"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_Cambio_SUB0_INT_Display_0" name="GEO_Cambio_SUB0_INT_Display_0">
+		<Material id="0" name="INT_Display"/>
+		<file path="BMW_M1_Assets/GEO_Cambio_SUB0_INT_Display_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d51edd603276cee9e5dcc183adc30d43"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_Cambio_SUB1_INT_Plaastica_NERA_0" name="GEO_Cambio_SUB1_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/GEO_Cambio_SUB1_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="75c920ba1887ecc989b4c86dfc722706"/>
+	</StaticMesh>
+	<StaticMesh label="GEO_Cambio_SUB2_INT_Cromato_0" name="GEO_Cambio_SUB2_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/GEO_Cambio_SUB2_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2061e36151a829249ef42f3fa3cb80e1"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh258_SUB0_INT_Skin_0" name="polymsh258_SUB0_INT_Skin_0">
+		<Material id="0" name="INT_Skin"/>
+		<file path="BMW_M1_Assets/polymsh258_SUB0_INT_Skin_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6b96b0903a4c3a4609f6a2f343fa5c13"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh258_SUB1_INT_Plaastica_NERA_0" name="polymsh258_SUB1_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/polymsh258_SUB1_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b866536b6896038563ac8ee3947e48b9"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh258_SUB2_LOGHI_normal_MAP_0" name="polymsh258_SUB2_LOGHI_normal_MAP_0">
+		<Material id="0" name="LOGHI_normal_MAP"/>
+		<file path="BMW_M1_Assets/polymsh258_SUB2_LOGHI_normal_MAP_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0656be992994eb748e92bc73ce643bea"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh258_SUB3_INT_Cuciture_skinned_0" name="polymsh258_SUB3_INT_Cuciture_skinned_0">
+		<Material id="0" name="INT_Cuciture_skinned"/>
+		<file path="BMW_M1_Assets/polymsh258_SUB3_INT_Cuciture_skinned_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="321a085ff3b7842c8591c6526a068fb2"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh258_SUB4_INT_Cromato_0" name="polymsh258_SUB4_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/polymsh258_SUB4_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bfaaf12a0de33760b850c69e55515e33"/>
+	</StaticMesh>
+	<StaticMesh label="Geometry110_2_Dischi_Freni_0" name="Geometry110_2_Dischi_Freni_0">
+		<Material id="0" name="Dischi_Freni"/>
+		<file path="BMW_M1_Assets/Geometry110_2_Dischi_Freni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="001b82a1c26859cc3c277ad43e2368df"/>
+	</StaticMesh>
+	<StaticMesh label="Geometry93_2_Dischi_Freni_0" name="Geometry93_2_Dischi_Freni_0">
+		<Material id="0" name="Dischi_Freni"/>
+		<file path="BMW_M1_Assets/Geometry93_2_Dischi_Freni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eff627f9beebbe3d30f594ad315c51ac"/>
+	</StaticMesh>
+	<StaticMesh label="Geometry112_2_Dischi_Freni_0" name="Geometry112_2_Dischi_Freni_0">
+		<Material id="0" name="Dischi_Freni"/>
+		<file path="BMW_M1_Assets/Geometry112_2_Dischi_Freni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="387a00485cc13ab181277e327c04d437"/>
+	</StaticMesh>
+	<StaticMesh label="Geometry114_2_Dischi_Freni_0" name="Geometry114_2_Dischi_Freni_0">
+		<Material id="0" name="Dischi_Freni"/>
+		<file path="BMW_M1_Assets/Geometry114_2_Dischi_Freni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4b06a7c4bb3ce4d3cae5edcd8578d6af"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB0_INT_Cuciture_skinned_0" name="polymsh266_SUB0_INT_Cuciture_skinned_0">
+		<Material id="0" name="INT_Cuciture_skinned"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB0_INT_Cuciture_skinned_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0bf667d07ef2f84df070ee33090588c1"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB1_INT_Skin_0" name="polymsh266_SUB1_INT_Skin_0">
+		<Material id="0" name="INT_Skin"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB1_INT_Skin_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="34aa0d6b045d74bdb3a973eeaf8b72f1"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB2_INT_Velluto_0" name="polymsh266_SUB2_INT_Velluto_0">
+		<Material id="0" name="INT_Velluto"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB2_INT_Velluto_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="58ea519e507ce13cf36cdc745d58f9e0"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB3_INT_Plaastica_NERA_0" name="polymsh266_SUB3_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB3_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1abd6c77ea5ee851c1fc0066c6762c73"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB4_LIVREA_0" name="polymsh266_SUB4_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB4_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a6188760dbe2634ddbfb7889118f9758"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB5_INT_Door_Grid_0" name="polymsh266_SUB5_INT_Door_Grid_0">
+		<Material id="0" name="INT_Door_Grid"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB5_INT_Door_Grid_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="01220952119ebbab3edc0bb3a62b97b1"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB6_INT_Cromato_0" name="polymsh266_SUB6_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB6_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="67c9091ba585bb340eb1b2754342ef99"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB7_INT_Gomma_0" name="polymsh266_SUB7_INT_Gomma_0">
+		<Material id="0" name="INT_Gomma"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB7_INT_Gomma_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b282c4a81809a047c0f8fe965221d0a0"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB8_INT_Plaastica_Opaca_0" name="polymsh266_SUB8_INT_Plaastica_Opaca_0">
+		<Material id="0" name="INT_Plaastica_Opaca"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB8_INT_Plaastica_Opaca_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="19662c5d694ed2cf6ea2e7ca64512cee"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh266_SUB9_INT_Speakers_0" name="polymsh266_SUB9_INT_Speakers_0">
+		<Material id="0" name="INT_Speakers"/>
+		<file path="BMW_M1_Assets/polymsh266_SUB9_INT_Speakers_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c97a63550bfd9946967a2d4981ac757d"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached29_SUB0_PLASTICA_Nera_lucida_0" name="polymsh_detached29_SUB0_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh_detached29_SUB0_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c28b2d1ee9d2f35e5c339f87923ac10e"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached29_SUB1_LIVREA_0" name="polymsh_detached29_SUB1_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh_detached29_SUB1_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a218bd11e2f296e20cfa8741b841c4bd"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached29_SUB2_MIRROR_0" name="polymsh_detached29_SUB2_MIRROR_0">
+		<Material id="0" name="MIRROR"/>
+		<file path="BMW_M1_Assets/polymsh_detached29_SUB2_MIRROR_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9b009af06abe1fbd64c5399a0902683e"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached29_SUB3_VETRI_Fanali_0" name="polymsh_detached29_SUB3_VETRI_Fanali_0">
+		<Material id="0" name="VETRI_Fanali"/>
+		<file path="BMW_M1_Assets/polymsh_detached29_SUB3_VETRI_Fanali_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="20ad181d60464113231437127956eccd"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB0_INT_Cuciture_skinned_0" name="polymsh267_SUB0_INT_Cuciture_skinned_0">
+		<Material id="0" name="INT_Cuciture_skinned"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB0_INT_Cuciture_skinned_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2378bcea566763322e50a894949ceb35"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB1_INT_Skin_0" name="polymsh267_SUB1_INT_Skin_0">
+		<Material id="0" name="INT_Skin"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB1_INT_Skin_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dadb53f7199d27132f667306c0e16453"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB2_INT_Velluto_0" name="polymsh267_SUB2_INT_Velluto_0">
+		<Material id="0" name="INT_Velluto"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB2_INT_Velluto_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d8e2556e3ff3ce2db8f502c799c58ea4"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB3_INT_Plaastica_NERA_0" name="polymsh267_SUB3_INT_Plaastica_NERA_0">
+		<Material id="0" name="INT_Plaastica_NERA"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB3_INT_Plaastica_NERA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8a3341983848c4facc9b4e618f208118"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB4_LIVREA_0" name="polymsh267_SUB4_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB4_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c5a56ab80cac7234876e46cbbcca22fe"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB5_INT_Door_Grid_0" name="polymsh267_SUB5_INT_Door_Grid_0">
+		<Material id="0" name="INT_Door_Grid"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB5_INT_Door_Grid_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="88c910865ef84dfe728b07e7ddc9be6c"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB6_INT_Cromato_0" name="polymsh267_SUB6_INT_Cromato_0">
+		<Material id="0" name="INT_Cromato"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB6_INT_Cromato_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a95116296dc527e8605c32dec5a4df70"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB7_INT_Gomma_0" name="polymsh267_SUB7_INT_Gomma_0">
+		<Material id="0" name="INT_Gomma"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB7_INT_Gomma_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb440a3fbf4272155b7b68288e52b93f"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB8_INT_Plaastica_Opaca_0" name="polymsh267_SUB8_INT_Plaastica_Opaca_0">
+		<Material id="0" name="INT_Plaastica_Opaca"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB8_INT_Plaastica_Opaca_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dee7ea66bf6b6b7bfe796301dba8a185"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh267_SUB9_INT_Speakers_0" name="polymsh267_SUB9_INT_Speakers_0">
+		<Material id="0" name="INT_Speakers"/>
+		<file path="BMW_M1_Assets/polymsh267_SUB9_INT_Speakers_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="952c52e6b8a4b6a8cf118e3f3523a156"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh62_SUB0_VETRI_Fanali_0" name="polymsh62_SUB0_VETRI_Fanali_0">
+		<Material id="0" name="VETRI_Fanali"/>
+		<file path="BMW_M1_Assets/polymsh62_SUB0_VETRI_Fanali_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6aa9a17522839c126b54ecda75d67a45"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh62_SUB1_LIVREA_0" name="polymsh62_SUB1_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh62_SUB1_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1b2c7e7209a58327ec8dbb76f4111d38"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh62_SUB2_PLASTICA_Nera_lucida_0" name="polymsh62_SUB2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh62_SUB2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3f9f012e702e662efe6bae7b79d7e5d4"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh62_SUB3_MIRROR_0" name="polymsh62_SUB3_MIRROR_0">
+		<Material id="0" name="MIRROR"/>
+		<file path="BMW_M1_Assets/polymsh62_SUB3_MIRROR_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c093a66a3a0b3ad8bfc021d1795ed671"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh66_SUB0_Chassis_0" name="polymsh66_SUB0_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh66_SUB0_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a5c83c789ba5705b2db9192a7a44b934"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh66_SUB1_LIVREA_0" name="polymsh66_SUB1_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh66_SUB1_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b70e9df526c92c7a213dff5e82bc8fd2"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh66_SUB2_PLASTICA_Nera_lucida_0" name="polymsh66_SUB2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh66_SUB2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="672d5d207158fd3d88253b95fe1b852d"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh66_SUB3_GRIGLIA_NM_0" name="polymsh66_SUB3_GRIGLIA_NM_0">
+		<Material id="0" name="GRIGLIA_NM"/>
+		<file path="BMW_M1_Assets/polymsh66_SUB3_GRIGLIA_NM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="05554cbc23e2ba66cbc547cad8f21c83"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh66_SUB4_GAS_CAP_NM_0" name="polymsh66_SUB4_GAS_CAP_NM_0">
+		<Material id="0" name="GAS_CAP_NM"/>
+		<file path="BMW_M1_Assets/polymsh66_SUB4_GAS_CAP_NM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="72ebf9359a93045146379fe22f1a8fe3"/>
+	</StaticMesh>
+	<StaticMesh label="front_light_1_2_Dettaglio_Faro_0" name="front_light_1_2_Dettaglio_Faro_0">
+		<Material id="0" name="Dettaglio_Faro"/>
+		<file path="BMW_M1_Assets/front_light_1_2_Dettaglio_Faro_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="285dcc5de5d8b28c65a98b7998ed9e5f"/>
+	</StaticMesh>
+	<StaticMesh label="front_light_2_2_FANALI_Anteriori_0" name="front_light_2_2_FANALI_Anteriori_0">
+		<Material id="0" name="FANALI_Anteriori"/>
+		<file path="BMW_M1_Assets/front_light_2_2_FANALI_Anteriori_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1324d6ff1d190fbb88b402b6d4fdb871"/>
+	</StaticMesh>
+	<StaticMesh label="front_light_3_2_Dettaglio_Faro_0" name="front_light_3_2_Dettaglio_Faro_0">
+		<Material id="0" name="Dettaglio_Faro"/>
+		<file path="BMW_M1_Assets/front_light_3_2_Dettaglio_Faro_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7c239427ba6cb3c36459d51896bf1028"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached114_SUB0_LOGHI_normal_MAP_0" name="polymsh_detached114_SUB0_LOGHI_normal_MAP_0">
+		<Material id="0" name="LOGHI_normal_MAP"/>
+		<file path="BMW_M1_Assets/polymsh_detached114_SUB0_LOGHI_normal_MAP_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5a0b8f40261c4673cd31692d0778ae5"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached114_SUB1_LIVREA_0" name="polymsh_detached114_SUB1_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh_detached114_SUB1_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6181042a3ec2004e0c0c75a6956909d2"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh262_SUB0_FANALI_Anteriori_0" name="polymsh262_SUB0_FANALI_Anteriori_0">
+		<Material id="0" name="FANALI_Anteriori"/>
+		<file path="BMW_M1_Assets/polymsh262_SUB0_FANALI_Anteriori_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="53a1f01809ea839e83b6ba38b3a91f47"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh262_SUB1_Dettaglio_Faro_0" name="polymsh262_SUB1_Dettaglio_Faro_0">
+		<Material id="0" name="Dettaglio_Faro"/>
+		<file path="BMW_M1_Assets/polymsh262_SUB1_Dettaglio_Faro_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="db2a196b76fb0e3ed965cd04a16c817f"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh262_SUB2_FANALI_Anteriori_0" name="polymsh262_SUB2_FANALI_Anteriori_0">
+		<Material id="0" name="FANALI_Anteriori"/>
+		<file path="BMW_M1_Assets/polymsh262_SUB2_FANALI_Anteriori_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fbeed13af31ead4143deb555867b3d85"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh263_SUB0_Fanali_POSTERIORI_OS_0" name="polymsh263_SUB0_Fanali_POSTERIORI_OS_0">
+		<Material id="0" name="Fanali_POSTERIORI_OS"/>
+		<file path="BMW_M1_Assets/polymsh263_SUB0_Fanali_POSTERIORI_OS_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c6708c5be88378e397acc39305544caa"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh263_SUB1_FARI_Poseriori_EXTRA2_0" name="polymsh263_SUB1_FARI_Poseriori_EXTRA2_0">
+		<Material id="0" name="FARI_Poseriori_EXTRA2"/>
+		<file path="BMW_M1_Assets/polymsh263_SUB1_FARI_Poseriori_EXTRA2_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e85eac7263cf3a71f8cb089a4d9be61"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh263_SUB2_FARI_Poseriori_EXTRA2_0" name="polymsh263_SUB2_FARI_Poseriori_EXTRA2_0">
+		<Material id="0" name="FARI_Poseriori_EXTRA2"/>
+		<file path="BMW_M1_Assets/polymsh263_SUB2_FARI_Poseriori_EXTRA2_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e38ff0d31b1054eae040aa52a0e6f36f"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB0_VETRI_Nero_0" name="polymsh65_SUB0_VETRI_Nero_0">
+		<Material id="0" name="VETRI_Nero"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB0_VETRI_Nero_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="83197430545e43869107624c9ec7047c"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB1_VETRI_Fanali_0" name="polymsh65_SUB1_VETRI_Fanali_0">
+		<Material id="0" name="VETRI_Fanali"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB1_VETRI_Fanali_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f102549d08697f5e22f00610d1f6c5c2"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB2_Chassis_0" name="polymsh65_SUB2_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB2_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9f6ee30198b6ef3f65ea7c6048da601a"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB3_LIVREA_0" name="polymsh65_SUB3_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB3_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="76723ec94731cf90fdeec60136add4a8"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB4_LOGHI_normal_MAP_0" name="polymsh65_SUB4_LOGHI_normal_MAP_0">
+		<Material id="0" name="LOGHI_normal_MAP"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB4_LOGHI_normal_MAP_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="44f2956a38170a774c12e2dd1dd0a5d1"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB5_GAS_CAP_NM_0" name="polymsh65_SUB5_GAS_CAP_NM_0">
+		<Material id="0" name="GAS_CAP_NM"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB5_GAS_CAP_NM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1535f98376967e5cfd094750fb36374a"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB6_Chassis_METAL_0" name="polymsh65_SUB6_Chassis_METAL_0">
+		<Material id="0" name="Chassis_METAL"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB6_Chassis_METAL_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="60cf8b4d7b6d8764247d322e807a51c3"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh65_SUB7_PLASTICA_Nera_lucida_0" name="polymsh65_SUB7_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh65_SUB7_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b3287f8012f2aedb6ef12f1aa03071e0"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached105_2_VETRI_Fanali_0" name="polymsh_detached105_2_VETRI_Fanali_0">
+		<Material id="0" name="VETRI_Fanali"/>
+		<file path="BMW_M1_Assets/polymsh_detached105_2_VETRI_Fanali_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8d3ea889b10377f906d83f0855e31ccd"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached112_2_VETRI_Fanali_0" name="polymsh_detached112_2_VETRI_Fanali_0">
+		<Material id="0" name="VETRI_Fanali"/>
+		<file path="BMW_M1_Assets/polymsh_detached112_2_VETRI_Fanali_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="429824c68b7b6e4b1fb46848885abc8d"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached116_2_MIRROR_0" name="polymsh_detached116_2_MIRROR_0">
+		<Material id="0" name="MIRROR"/>
+		<file path="BMW_M1_Assets/polymsh_detached116_2_MIRROR_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d1e6f60d1c6773e50d66002320244da6"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh33_SUB0_LIVREA_0" name="polymsh33_SUB0_LIVREA_0">
+		<Material id="0" name="LIVREA"/>
+		<file path="BMW_M1_Assets/polymsh33_SUB0_LIVREA_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="acae3363c46e72172ae806c378edf3f6"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh33_SUB1_Chassis_0" name="polymsh33_SUB1_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh33_SUB1_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b555ef1929b3ba8be81c64b2c6508fc7"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh33_SUB2_PLASTICA_Nera_lucida_0" name="polymsh33_SUB2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh33_SUB2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5419a9031fbd5ee431807379f62b52b0"/>
+	</StaticMesh>
+	<StaticMesh label="rear_light_1_2_Fanali_POSTERIORI_OS_0" name="rear_light_1_2_Fanali_POSTERIORI_OS_0">
+		<Material id="0" name="Fanali_POSTERIORI_OS"/>
+		<file path="BMW_M1_Assets/rear_light_1_2_Fanali_POSTERIORI_OS_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1c58e47eb4f95e90338fc38c965f904e"/>
+	</StaticMesh>
+	<StaticMesh label="rear_light_2_2_Fanali_POSTERIORI_OS_0" name="rear_light_2_2_Fanali_POSTERIORI_OS_0">
+		<Material id="0" name="Fanali_POSTERIORI_OS"/>
+		<file path="BMW_M1_Assets/rear_light_2_2_Fanali_POSTERIORI_OS_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cf9538bcca636f39a6b1030bff08d927"/>
+	</StaticMesh>
+	<StaticMesh label="retro_light_1_2_Fanali_POSTERIORI_OS_0" name="retro_light_1_2_Fanali_POSTERIORI_OS_0">
+		<Material id="0" name="Fanali_POSTERIORI_OS"/>
+		<file path="BMW_M1_Assets/retro_light_1_2_Fanali_POSTERIORI_OS_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8bf156e6c6dedac0231b9759b7a5b573"/>
+	</StaticMesh>
+	<StaticMesh label="Sospensione__Frontale_2_Chassis_0" name="Sospensione__Frontale_2_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/Sospensione__Frontale_2_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="228dff445d5d69961fa8bac8e114eb0f"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh71_SUB0_Chassis_0" name="polymsh71_SUB0_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh71_SUB0_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a57596ac5359e86c9007204de626df2e"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh71_SUB1_CAR_PinzaFreni_0" name="polymsh71_SUB1_CAR_PinzaFreni_0">
+		<Material id="0" name="CAR_PinzaFreni"/>
+		<file path="BMW_M1_Assets/polymsh71_SUB1_CAR_PinzaFreni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b93ee16bfbb700f7ea8c138baa9e74a6"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh69_SUB0_CAR_PinzaFreni_0" name="polymsh69_SUB0_CAR_PinzaFreni_0">
+		<Material id="0" name="CAR_PinzaFreni"/>
+		<file path="BMW_M1_Assets/polymsh69_SUB0_CAR_PinzaFreni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0fccdb5c05f083c064dcf23fa635aae4"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh69_SUB1_Chassis_0" name="polymsh69_SUB1_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh69_SUB1_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0578d49907d3a63ba7d2a5470b3d8caa"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh72_SUB0_Chassis_0" name="polymsh72_SUB0_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh72_SUB0_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="717a6a65ebc32a1e4bedd570aecca6a8"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh72_SUB1_CAR_PinzaFreni_0" name="polymsh72_SUB1_CAR_PinzaFreni_0">
+		<Material id="0" name="CAR_PinzaFreni"/>
+		<file path="BMW_M1_Assets/polymsh72_SUB1_CAR_PinzaFreni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="555080bf18eff865a9c3cace1db248dc"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh73_SUB0_CAR_PinzaFreni_0" name="polymsh73_SUB0_CAR_PinzaFreni_0">
+		<Material id="0" name="CAR_PinzaFreni"/>
+		<file path="BMW_M1_Assets/polymsh73_SUB0_CAR_PinzaFreni_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="18ce74b341775088380ea865fbd1115d"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh73_SUB1_Chassis_0" name="polymsh73_SUB1_Chassis_0">
+		<Material id="0" name="Chassis"/>
+		<file path="BMW_M1_Assets/polymsh73_SUB1_Chassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="df46cc9e6c17a594eaf6581e745f9385"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_LF_LOGHI_RIM_0" name="WHEEL_LF_LOGHI_RIM_0">
+		<Material id="0" name="LOGHI_RIM"/>
+		<file path="BMW_M1_Assets/WHEEL_LF_LOGHI_RIM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6a9ce4aa2a3058e69ec3a507698cc130"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_LF_RT_Battistrada_0" name="WHEEL_LF_RT_Battistrada_0">
+		<Material id="0" name="RT_Battistrada"/>
+		<file path="BMW_M1_Assets/WHEEL_LF_RT_Battistrada_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="398d1388591f21354816af456fa3913d"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_LF_RT_rim_0" name="WHEEL_LF_RT_rim_0">
+		<Material id="0" name="RT_rim"/>
+		<file path="BMW_M1_Assets/WHEEL_LF_RT_rim_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a2a65c594933fc0f2a04bbe8ebfbb46b"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_LR_LOGHI_RIM_0" name="WHEEL_LR_LOGHI_RIM_0">
+		<Material id="0" name="LOGHI_RIM"/>
+		<file path="BMW_M1_Assets/WHEEL_LR_LOGHI_RIM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d0eac7ab3790eb87dd133b73d10569c4"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_LR_RT_Battistrada_0" name="WHEEL_LR_RT_Battistrada_0">
+		<Material id="0" name="RT_Battistrada"/>
+		<file path="BMW_M1_Assets/WHEEL_LR_RT_Battistrada_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8701b8dd4a11819ba1e55f943f81a16a"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_LR_RT_rim_0" name="WHEEL_LR_RT_rim_0">
+		<Material id="0" name="RT_rim"/>
+		<file path="BMW_M1_Assets/WHEEL_LR_RT_rim_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="feaee38bd74d77746270c5fd0ce942ed"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_RF_LOGHI_RIM_0" name="WHEEL_RF_LOGHI_RIM_0">
+		<Material id="0" name="LOGHI_RIM"/>
+		<file path="BMW_M1_Assets/WHEEL_RF_LOGHI_RIM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="55333275fa17d97b398edadd9d9a80af"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_RF_RT_Battistrada_0" name="WHEEL_RF_RT_Battistrada_0">
+		<Material id="0" name="RT_Battistrada"/>
+		<file path="BMW_M1_Assets/WHEEL_RF_RT_Battistrada_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5f2c08ff32eac394fa63e8933f24a8c9"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_RF_RT_rim_0" name="WHEEL_RF_RT_rim_0">
+		<Material id="0" name="RT_rim"/>
+		<file path="BMW_M1_Assets/WHEEL_RF_RT_rim_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="56cedc69920e0fa85ea658a418a0967a"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_RR_LOGHI_RIM_0" name="WHEEL_RR_LOGHI_RIM_0">
+		<Material id="0" name="LOGHI_RIM"/>
+		<file path="BMW_M1_Assets/WHEEL_RR_LOGHI_RIM_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="269935bd77b9caf6a8bb233f1e3510e5"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_RR_RT_Battistrada_0" name="WHEEL_RR_RT_Battistrada_0">
+		<Material id="0" name="RT_Battistrada"/>
+		<file path="BMW_M1_Assets/WHEEL_RR_RT_Battistrada_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3f2ebd9998c2f020eef14db94d237b71"/>
+	</StaticMesh>
+	<StaticMesh label="WHEEL_RR_RT_rim_0" name="WHEEL_RR_RT_rim_0">
+		<Material id="0" name="RT_rim"/>
+		<file path="BMW_M1_Assets/WHEEL_RR_RT_rim_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0024fa4225b4a0a2085674716d3458c8"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh18_2_PLASTICA_Nera_lucida_0" name="polymsh18_2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh18_2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1667d87f5a15f8305a8b8dc7b2ff5f44"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached_2_PLASTICA_Nera_lucida_0" name="polymsh_detached_2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh_detached_2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7d635b8832d6c65e1eae0e9fde30aa7e"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh19_2_PLASTICA_Nera_lucida_0" name="polymsh19_2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh19_2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="26155ad12586b9c939af32605bb29a6e"/>
+	</StaticMesh>
+	<StaticMesh label="polymsh_detached113_2_PLASTICA_Nera_lucida_0" name="polymsh_detached113_2_PLASTICA_Nera_lucida_0">
+		<Material id="0" name="PLASTICA_Nera_lucida"/>
+		<file path="BMW_M1_Assets/polymsh_detached113_2_PLASTICA_Nera_lucida_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="303fbffb8e78f9e39bffe9e186944d77"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Fanali_POSTERIORI_TS">
+		<Expressions>
+			<Texture PathName="Fanali_POSTERIORI_TS_baseColor_png"/>
+			<Scalar constant="0.272763"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_CintureSicurezza">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.467811"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_CintureSicurezza_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Cromato">
+		<Expressions>
+			<Texture PathName="INT_Cromato_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.914258"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Plaastica_NERA">
+		<Expressions>
+			<Texture PathName="INT_Plaastica_NERA_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400763"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Velluto_RIG">
+		<Expressions>
+			<Color constant="(R=0.200000,G=0.200000,B=0.200000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Velluto_RIG_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Cuciture_skinned">
+		<Expressions>
+			<Texture PathName="INT_Cuciture_skinned_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Cuciture_skinned_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Display">
+		<Expressions>
+			<Texture PathName="INT_Display_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.248382"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="VETRI_defrost_interno">
+		<Expressions>
+			<Texture PathName="VETRI_defrost_interno_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.600000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Velluto">
+		<Expressions>
+			<Color constant="(R=0.003200,G=0.003200,B=0.003200,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.760383"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Velluto_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Stoffa">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.638478"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Plaastica_Opaca">
+		<Expressions>
+			<Texture PathName="INT_Plaastica_Opaca_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_VetroDisplay">
+		<Expressions>
+			<Texture PathName="INT_VetroDisplay_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.886863"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PLASTICA_Nera_lucida">
+		<Expressions>
+			<Texture PathName="PLASTICA_Nera_lucida_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.473906"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Lucina_Specchietto">
+		<Expressions>
+			<Texture PathName="INT_Plaastica_Opaca_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Rotelline">
+		<Expressions>
+			<Texture PathName="INT_Rotelline_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Rotelline_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Pedana">
+		<Expressions>
+			<Texture PathName="INT_Pedana_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Pedana_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Gomma">
+		<Expressions>
+			<Texture PathName="INT_Gomma_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Skin">
+		<Expressions>
+			<Color constant="(R=0.016041,G=0.016041,B=0.016041,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.809145"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Metallo_Nero_Rosso">
+		<Expressions>
+			<Texture PathName="INT_Plaastica_Opaca_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="LIVREA">
+		<Expressions>
+			<Color constant="(R=0.011011,G=0.011011,B=0.011011,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Multiply>
+				<0 expression="1"/>
+				<1 expression="2" OutputIndex="0"/>
+			</Multiply>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Multiply>
+				<0 expression="4"/>
+				<1 expression="5" OutputIndex="0"/>
+			</Multiply>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="6"/>
+		<Specular expression="7" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Pedali">
+		<Expressions>
+			<Texture PathName="INT_Pedali_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.864481"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Pedali_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="LOGHI_normal_MAP">
+		<Expressions>
+			<Texture PathName="LOGHI_RIM_baseColor_png"/>
+			<Scalar constant="0.583621"/>
+			<Scalar constant="0.291048"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Dischi_Freni">
+		<Expressions>
+			<Texture PathName="Dischi_Freni_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.875674"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="Dischi_Freni_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Door_Grid">
+		<Expressions>
+			<Texture PathName="INT_Door_Grid_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="INT_Door_Grid_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="INT_Speakers">
+		<Expressions>
+			<Texture PathName="INT_Speakers_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.932728"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="MIRROR">
+		<Expressions>
+			<Texture PathName="MIRROR_baseColor_png"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="VETRI_Fanali">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<OneMinus>
+				<0 expression="4" OutputIndex="0"/>
+			</OneMinus>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Opacity expression="5"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chassis">
+		<Expressions>
+			<Texture PathName="Chassis_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.717716"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="GRIGLIA_NM">
+		<Expressions>
+			<Texture PathName="GRIGLIA_NM_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.480001"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="GRIGLIA_NM_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="GAS_CAP_NM">
+		<Expressions>
+			<Texture PathName="GAS_CAP_NM_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="GAS_CAP_NM_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Dettaglio_Faro">
+		<Expressions>
+			<Texture PathName="Dettaglio_Faro_baseColor_png"/>
+			<Scalar constant="0.345906"/>
+			<Scalar constant="0.242286"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="Dettaglio_Faro_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="FANALI_Anteriori">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.083810"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="FANALI_Anteriori_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Fanali_POSTERIORI_OS">
+		<Expressions>
+			<Texture PathName="Fanali_POSTERIORI_TS_baseColor_png"/>
+			<Scalar constant="0.291048"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="Fanali_POSTERIORI_OS_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="FARI_Poseriori_EXTRA2">
+		<Expressions>
+			<Texture PathName="FARI_Poseriori_EXTRA2_baseColor_png"/>
+			<Scalar constant="0.181334"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="FARI_Poseriori_EXTRA2_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="VETRI_Nero">
+		<Expressions>
+			<Texture PathName="VETRI_Nero_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.904863"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chassis_METAL">
+		<Expressions>
+			<Color constant="(R=0.032830,G=0.032830,B=0.032830,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.492192"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CAR_PinzaFreni">
+		<Expressions>
+			<Texture PathName="CAR_PinzaFreni_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.138667"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="CAR_PinzaFreni_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="LOGHI_RIM">
+		<Expressions>
+			<Texture PathName="LOGHI_RIM_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.866809"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="RT_Battistrada">
+		<Expressions>
+			<Texture PathName="RT_Battistrada_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.571430"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="RT_Battistrada_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="RT_rim">
+		<Expressions>
+			<Color constant="(R=0.009616,G=0.009616,B=0.009616,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.020000"/>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="RT_rim_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="Fanali_POSTERIORI_TS_baseColor_png" file="BMW_M1_Assets\Fanali_POSTERIORI_TS_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="7936b84f2c7bd13b08dc3f1bafd0b9b0"/>
+	</Texture>
+	<Texture name="INT_CintureSicurezza_normal_png" file="BMW_M1_Assets\INT_CintureSicurezza_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="165b2f30bad2fc51c783e853a4209b1a"/>
+	</Texture>
+	<Texture name="INT_Cromato_baseColor_png" file="BMW_M1_Assets\INT_Cromato_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="395c4f467f5d4197e3b9f7884f3dda03"/>
+	</Texture>
+	<Texture name="INT_Plaastica_NERA_baseColor_png" file="BMW_M1_Assets\INT_Plaastica_NERA_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="87f50c925951a3b431e2e18f15cab14b"/>
+	</Texture>
+	<Texture name="INT_Velluto_RIG_normal_png" file="BMW_M1_Assets\INT_Velluto_RIG_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="b2f94479e56d1d5f377246e49082acb9"/>
+	</Texture>
+	<Texture name="INT_Cuciture_skinned_baseColor_png" file="BMW_M1_Assets\INT_Cuciture_skinned_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="8079456a2786431599cc9e7ccaa11687"/>
+	</Texture>
+	<Texture name="INT_Cuciture_skinned_normal_png" file="BMW_M1_Assets\INT_Cuciture_skinned_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="9228d01a51ec59bfee07d90935f43a58"/>
+	</Texture>
+	<Texture name="INT_Display_baseColor_png" file="BMW_M1_Assets\INT_Display_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="91eec3208bd0fab653870ff57d893e26"/>
+	</Texture>
+	<Texture name="VETRI_defrost_interno_baseColor_png" file="BMW_M1_Assets\VETRI_defrost_interno_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="3471b941dc230c3b9cf985d244283983"/>
+	</Texture>
+	<Texture name="INT_Velluto_normal_png" file="BMW_M1_Assets\INT_Velluto_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="b2f94479e56d1d5f377246e49082acb9"/>
+	</Texture>
+	<Texture name="INT_Plaastica_Opaca_baseColor_png" file="BMW_M1_Assets\INT_Plaastica_Opaca_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="87f50c925951a3b431e2e18f15cab14b"/>
+	</Texture>
+	<Texture name="INT_VetroDisplay_baseColor_png" file="BMW_M1_Assets\INT_VetroDisplay_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="5d1fcabcff063b85557b66396e5c2811"/>
+	</Texture>
+	<Texture name="PLASTICA_Nera_lucida_baseColor_png" file="BMW_M1_Assets\PLASTICA_Nera_lucida_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="148a335a5dc998cad302498915970546"/>
+	</Texture>
+	<Texture name="INT_Rotelline_baseColor_png" file="BMW_M1_Assets\INT_Rotelline_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="29c2cd6bc557f42faa2eea902e603c73"/>
+	</Texture>
+	<Texture name="INT_Rotelline_normal_png" file="BMW_M1_Assets\INT_Rotelline_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="f591c761243af8b460c78d69a8351411"/>
+	</Texture>
+	<Texture name="INT_Pedana_baseColor_png" file="BMW_M1_Assets\INT_Pedana_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="e745ca1ec5b37e07bebdafbfc8b098e8"/>
+	</Texture>
+	<Texture name="INT_Pedana_normal_png" file="BMW_M1_Assets\INT_Pedana_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="df478f73f8b672ef22158dd138fb40b5"/>
+	</Texture>
+	<Texture name="INT_Gomma_baseColor_png" file="BMW_M1_Assets\INT_Gomma_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="a6099cb66246e3cfdeb93b2c0ee2d160"/>
+	</Texture>
+	<Texture name="INT_Pedali_baseColor_png" file="BMW_M1_Assets\INT_Pedali_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="acf8a286e506aa38b175c0f282ed48a3"/>
+	</Texture>
+	<Texture name="INT_Pedali_normal_png" file="BMW_M1_Assets\INT_Pedali_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="0cbe10acbb44e14b6687928295ded3c5"/>
+	</Texture>
+	<Texture name="LOGHI_RIM_baseColor_png" file="BMW_M1_Assets\LOGHI_RIM_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="4a23dcc1e4ba18201e725f642a19feb4"/>
+	</Texture>
+	<Texture name="Dischi_Freni_baseColor_png" file="BMW_M1_Assets\Dischi_Freni_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="4993d9ae4f0611b3e6c3c4f17c60415f"/>
+	</Texture>
+	<Texture name="Dischi_Freni_normal_png" file="BMW_M1_Assets\Dischi_Freni_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="b2f94479e56d1d5f377246e49082acb9"/>
+	</Texture>
+	<Texture name="INT_Door_Grid_baseColor_png" file="BMW_M1_Assets\INT_Door_Grid_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="b561918705e05102b90e0641d8ffc1fb"/>
+	</Texture>
+	<Texture name="INT_Door_Grid_normal_png" file="BMW_M1_Assets\INT_Door_Grid_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="d3362df0330443c1408487f4f71add32"/>
+	</Texture>
+	<Texture name="INT_Speakers_baseColor_png" file="BMW_M1_Assets\INT_Speakers_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="001ada73659eddc3bebf7c542865a175"/>
+	</Texture>
+	<Texture name="MIRROR_baseColor_png" file="BMW_M1_Assets\MIRROR_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="3bd461cc1b6dd454d9a109751270051e"/>
+	</Texture>
+	<Texture name="Chassis_baseColor_png" file="BMW_M1_Assets\Chassis_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="08827e0e98cdfac8226d9c0a10da51f6"/>
+	</Texture>
+	<Texture name="GRIGLIA_NM_baseColor_png" file="BMW_M1_Assets\GRIGLIA_NM_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="25739361bd27fb969036fc4634925ec2"/>
+	</Texture>
+	<Texture name="GRIGLIA_NM_normal_png" file="BMW_M1_Assets\GRIGLIA_NM_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="65bd718e9c5331eaa55aecac74806912"/>
+	</Texture>
+	<Texture name="GAS_CAP_NM_baseColor_png" file="BMW_M1_Assets\GAS_CAP_NM_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="97eb6a54360b1c97d147c35f8864971f"/>
+	</Texture>
+	<Texture name="GAS_CAP_NM_normal_png" file="BMW_M1_Assets\GAS_CAP_NM_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="d634de7fccf4154bcbe6b559f48f93a2"/>
+	</Texture>
+	<Texture name="Dettaglio_Faro_baseColor_png" file="BMW_M1_Assets\Dettaglio_Faro_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="af8e3ce39b12ffbc2443c9c75e1329d7"/>
+	</Texture>
+	<Texture name="Dettaglio_Faro_normal_png" file="BMW_M1_Assets\Dettaglio_Faro_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="fefed21b73bdaaa9825103cf7f1d8ad1"/>
+	</Texture>
+	<Texture name="FANALI_Anteriori_normal_png" file="BMW_M1_Assets\FANALI_Anteriori_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="b641c0c74d7b71859ed584acd219212e"/>
+	</Texture>
+	<Texture name="Fanali_POSTERIORI_OS_normal_png" file="BMW_M1_Assets\Fanali_POSTERIORI_OS_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="9d4b0caae0293da7d36646d8954560d0"/>
+	</Texture>
+	<Texture name="FARI_Poseriori_EXTRA2_baseColor_png" file="BMW_M1_Assets\FARI_Poseriori_EXTRA2_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="0f78059ba71a17b53df28b105a41c890"/>
+	</Texture>
+	<Texture name="FARI_Poseriori_EXTRA2_normal_png" file="BMW_M1_Assets\FARI_Poseriori_EXTRA2_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="d68b8f9e8e9cc052f1c873137125d053"/>
+	</Texture>
+	<Texture name="VETRI_Nero_baseColor_png" file="BMW_M1_Assets\VETRI_Nero_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="bd420a4e949fbece3d7e5c498efbfb74"/>
+	</Texture>
+	<Texture name="CAR_PinzaFreni_baseColor_png" file="BMW_M1_Assets\CAR_PinzaFreni_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="8f131ad15c3d80cae42498ea5e818a42"/>
+	</Texture>
+	<Texture name="CAR_PinzaFreni_normal_png" file="BMW_M1_Assets\CAR_PinzaFreni_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="4d8a4d8b6c3a132ee9add388f68d0496"/>
+	</Texture>
+	<Texture name="RT_Battistrada_baseColor_png" file="BMW_M1_Assets\RT_Battistrada_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="e49de2755465f0e839a6d9f7d997a1c4"/>
+	</Texture>
+	<Texture name="RT_Battistrada_normal_png" file="BMW_M1_Assets\RT_Battistrada_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="b657c84fbfb263b3698f8b464862033a"/>
+	</Texture>
+	<Texture name="RT_rim_normal_png" file="BMW_M1_Assets\RT_rim_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="d11167b9f24e126284e4b2fafb2b70c7"/>
+	</Texture>
+	<Export Duration="1.297000000020489"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,947 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.11"/>
+	<User ID="yang" OS="Windows 10"/>
+	<Actor name="Sketchfab_model" layer="Scene Collection">
+		<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.707107" qx="0.707107" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+		<children visible="True">
+			<Actor name="af1904ceed714c949aa1e5f524213729_fbx" layer="Scene Collection">
+				<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.010000" sy="0.010000" sz="0.010000"/>
+				<children visible="True">
+					<Actor name="RootNode" layer="Scene Collection">
+						<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.010000" sy="0.010000" sz="0.010000"/>
+						<children visible="True">
+							<Actor name="bmw" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_bmwsteer_0" layer="Scene Collection">
+										<mesh name="bmw_bmwsteer_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_001" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_001_black_0" layer="Scene Collection">
+										<mesh name="bmw_001_black_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_003" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_003_steer_text_0" layer="Scene Collection">
+										<mesh name="bmw_003_steer_text_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_004" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_004_script_rt_dials_digital_0" layer="Scene Collection">
+										<mesh name="bmw_004_script_rt_dials_digital_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_005" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_005_hud_0" layer="Scene Collection">
+										<mesh name="bmw_005_hud_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_006" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_006_bmwlights_0" layer="Scene Collection">
+										<mesh name="bmw_006_bmwlights_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_007" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_007_bmwmisc_0" layer="Scene Collection">
+										<mesh name="bmw_007_bmwmisc_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_008" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_008_bmwchassis_0" layer="Scene Collection">
+										<mesh name="bmw_008_bmwchassis_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_009" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_009_bmwcarbon_0" layer="Scene Collection">
+										<mesh name="bmw_009_bmwcarbon_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_010" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_010_bmwinterior_0" layer="Scene Collection">
+										<mesh name="bmw_010_bmwinterior_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_011" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_011_leather_0" layer="Scene Collection">
+										<mesh name="bmw_011_leather_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_012" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_012_leather3_brown_0" layer="Scene Collection">
+										<mesh name="bmw_012_leather3_brown_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_013" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_013_wood_spec_0" layer="Scene Collection">
+										<mesh name="bmw_013_wood_spec_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_014" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_014_bmwmetal_0" layer="Scene Collection">
+										<mesh name="bmw_014_bmwmetal_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_015" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_015_bmwmech_0" layer="Scene Collection">
+										<mesh name="bmw_015_bmwmech_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_016" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_016_blackforza_0" layer="Scene Collection">
+										<mesh name="bmw_016_blackforza_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_017" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_017_bmwheel_0" layer="Scene Collection">
+										<mesh name="bmw_017_bmwheel_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_018" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_018_tyre_base_0" layer="Scene Collection">
+										<mesh name="bmw_018_tyre_base_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_019" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_019_brake_disk_0" layer="Scene Collection">
+										<mesh name="bmw_019_brake_disk_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_020" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_020_red_glass_0" layer="Scene Collection">
+										<mesh name="bmw_020_red_glass_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_021" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_021_blue_0" layer="Scene Collection">
+										<mesh name="bmw_021_blue_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_022" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_022_Matte__FFC0C0C0_0" layer="Scene Collection">
+										<mesh name="bmw_022_Matte__FFC0C0C0_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_023" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_023_bmwbadges_0" layer="Scene Collection">
+										<mesh name="bmw_023_bmwbadges_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_024" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_024_Matte__FF8080FF_0" layer="Scene Collection">
+										<mesh name="bmw_024_Matte__FF8080FF_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_025" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_025_pagcarbon_0" layer="Scene Collection">
+										<mesh name="bmw_025_pagcarbon_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_026" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_026_hubtex_0" layer="Scene Collection">
+										<mesh name="bmw_026_hubtex_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_027" layer="Scene Collection">
+								<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_027_cabsomething_0" layer="Scene Collection">
+										<mesh name="bmw_027_cabsomething_0"/>
+										<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_028" layer="Scene Collection">
+								<Transform tx="-4.342732" ty="282.787262" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_028_bmwheel_0" layer="Scene Collection">
+										<mesh name="bmw_028_bmwheel_0"/>
+										<Transform tx="-4.342732" ty="282.787262" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_029" layer="Scene Collection">
+								<Transform tx="-4.342732" ty="282.787262" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_029_tyre_base_0" layer="Scene Collection">
+										<mesh name="bmw_029_tyre_base_0"/>
+										<Transform tx="-4.342732" ty="282.787262" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_030" layer="Scene Collection">
+								<Transform tx="-4.342732" ty="282.787262" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_030_brake_disk_0" layer="Scene Collection">
+										<mesh name="bmw_030_brake_disk_0"/>
+										<Transform tx="-4.342732" ty="282.787262" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_031" layer="Scene Collection">
+								<Transform tx="3.721096" ty="-0.336073" tz="-0.062978" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_031_bmwheel_0" layer="Scene Collection">
+										<mesh name="bmw_031_bmwheel_0"/>
+										<Transform tx="3.721096" ty="-0.336073" tz="-0.062978" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_032" layer="Scene Collection">
+								<Transform tx="3.721096" ty="-0.336073" tz="-0.062978" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_032_tyre_base_0" layer="Scene Collection">
+										<mesh name="bmw_032_tyre_base_0"/>
+										<Transform tx="3.721096" ty="-0.336073" tz="-0.062978" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_033" layer="Scene Collection">
+								<Transform tx="3.721096" ty="-0.336073" tz="-0.062978" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_033_brake_disk_0" layer="Scene Collection">
+										<mesh name="bmw_033_brake_disk_0"/>
+										<Transform tx="3.721096" ty="-0.336073" tz="-0.062978" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_034" layer="Scene Collection">
+								<Transform tx="3.721096" ty="-283.364807" tz="0.200774" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_034_bmwheel_0" layer="Scene Collection">
+										<mesh name="bmw_034_bmwheel_0"/>
+										<Transform tx="3.721096" ty="-283.364807" tz="0.200774" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_035" layer="Scene Collection">
+								<Transform tx="3.721096" ty="-283.364807" tz="0.200774" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_035_tyre_base_0" layer="Scene Collection">
+										<mesh name="bmw_035_tyre_base_0"/>
+										<Transform tx="3.721096" ty="-283.364807" tz="0.200774" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+							<Actor name="bmw_036" layer="Scene Collection">
+								<Transform tx="3.721096" ty="-283.364807" tz="0.200774" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+								<children visible="True">
+									<ActorMesh name="bmw_036_brake_disk_0" layer="Scene Collection">
+										<mesh name="bmw_036_brake_disk_0"/>
+										<Transform tx="3.721096" ty="-283.364807" tz="0.200774" qw="0.000447" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+									</ActorMesh>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<Light name="Light" layer="Collection" type="PointLight" enabled="1">
+		<SourceSize value="10.000000"/>
+		<Intensity value="1000.000000"/>
+		<AttenuationRadius value="3162.277660"/>
+		<IntensityUnits value="Lumens"/>
+		<Color usetemp="0" temperature="6500.0" R="1.000000" G="1.000000" B="1.000000"/>
+		<Transform tx="407.624542" ty="-100.545395" tz="590.386230" qw="0.144014" qx="-0.442790" qy="0.040919" qz="0.884037" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Light>
+	<Camera name="Camera" layer="Collection">
+		<DepthOfField enabled="0"/>
+		<SensorWidth value="36.000000"/>
+		<SensorAspectRatio value="1.777778"/>
+		<FocusDistance value="1000.000000"/>
+		<FStop value="2.800000"/>
+		<FocalLength value="50.000000"/>
+		<Post/>
+		<Transform tx="735.889160" ty="692.579102" tz="495.830933" qw="0.359222" qx="0.212557" qy="0.084389" qz="-0.904797" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Camera>
+	<StaticMesh label="bmw_bmwsteer_0" name="bmw_bmwsteer_0">
+		<Material id="0" name="bmwsteer"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_bmwsteer_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8f745696b0a3787e4050da2651f390d7"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_001_black_0" name="bmw_001_black_0">
+		<Material id="0" name="black"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_001_black_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f4793e86163e60665f68709feaa49ebf"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_003_steer_text_0" name="bmw_003_steer_text_0">
+		<Material id="0" name="steer_text"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_003_steer_text_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="36f58e9d3186ab35c75651f8a99ca9ac"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_004_script_rt_dials_digital_0" name="bmw_004_script_rt_dials_digital_0">
+		<Material id="0" name="script_rt_dials_digital"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_004_script_rt_dials_digital_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="97de38478fd1a567bd1d262900d7ff66"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_005_hud_0" name="bmw_005_hud_0">
+		<Material id="0" name="material_002"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_005_hud_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="15fc050da99d8b7577452d6eee286670"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_006_bmwlights_0" name="bmw_006_bmwlights_0">
+		<Material id="0" name="bmwlights"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_006_bmwlights_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="10d06b5f8146e0de23a704cf19cf5e1a"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_007_bmwmisc_0" name="bmw_007_bmwmisc_0">
+		<Material id="0" name="bmwmisc"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_007_bmwmisc_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a8f1a1af40b97845fa7e7c1746c0f913"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_008_bmwchassis_0" name="bmw_008_bmwchassis_0">
+		<Material id="0" name="bmwchassis"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_008_bmwchassis_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a2f45551d929e40be8eab6303029ed56"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_009_bmwcarbon_0" name="bmw_009_bmwcarbon_0">
+		<Material id="0" name="bmwcarbon"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_009_bmwcarbon_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f89c1008086e6a93aae4e4fdafda9f5f"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_010_bmwinterior_0" name="bmw_010_bmwinterior_0">
+		<Material id="0" name="bmwinterior"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_010_bmwinterior_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e8f401ef0d68bd337ac84c4b7960ea88"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_011_leather_0" name="bmw_011_leather_0">
+		<Material id="0" name="leather"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_011_leather_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e150a19e9cecd88b66b5fa06ac28a148"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_012_leather3_brown_0" name="bmw_012_leather3_brown_0">
+		<Material id="0" name="leather3_brown"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_012_leather3_brown_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f05bedbe04920aef9e9fe713e8e005e1"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_013_wood_spec_0" name="bmw_013_wood_spec_0">
+		<Material id="0" name="wood_spec"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_013_wood_spec_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="996dd5c8ef02286c0eae9788bd2ce53e"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_014_bmwmetal_0" name="bmw_014_bmwmetal_0">
+		<Material id="0" name="bmwmetal"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_014_bmwmetal_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="45ca7352458f50d379f135c08991e533"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_015_bmwmech_0" name="bmw_015_bmwmech_0">
+		<Material id="0" name="bmwmech"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_015_bmwmech_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9e6645f083d1390fd788ca6a96164a44"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_016_blackforza_0" name="bmw_016_blackforza_0">
+		<Material id="0" name="blackforza"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_016_blackforza_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0bc1e99c4e26c4f41f1d163343401a70"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_017_bmwheel_0" name="bmw_017_bmwheel_0">
+		<Material id="0" name="bmwheel"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_017_bmwheel_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9dde835d69d9d34522c97966b16852c6"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_018_tyre_base_0" name="bmw_018_tyre_base_0">
+		<Material id="0" name="tyre_base"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_018_tyre_base_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="77e70697441c2c781cb6927262bca324"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_019_brake_disk_0" name="bmw_019_brake_disk_0">
+		<Material id="0" name="brake_disk"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_019_brake_disk_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fbc65da2c3ca4e0e25e99f0c717491be"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_020_red_glass_0" name="bmw_020_red_glass_0">
+		<Material id="0" name="red_glass"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_020_red_glass_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d277ea77e3c0ae33cdee62f1223e95aa"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_021_blue_0" name="bmw_021_blue_0">
+		<Material id="0" name="blue"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_021_blue_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eafef620b24b0e8c67a11b59a913a751"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_022_Matte__FFC0C0C0_0" name="bmw_022_Matte__FFC0C0C0_0">
+		<Material id="0" name="Matte__FFC0C0C0"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_022_Matte__FFC0C0C0_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="48a2a36eeec8939488a344f9532bb5d1"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_023_bmwbadges_0" name="bmw_023_bmwbadges_0">
+		<Material id="0" name="bmwbadges"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_023_bmwbadges_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="88e8290f23cee2440c15ec5cceacb5b1"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_024_Matte__FF8080FF_0" name="bmw_024_Matte__FF8080FF_0">
+		<Material id="0" name="Matte__FF8080FF"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_024_Matte__FF8080FF_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a16acb62c566867f0dbec141bfec7a87"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_025_pagcarbon_0" name="bmw_025_pagcarbon_0">
+		<Material id="0" name="pagcarbon"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_025_pagcarbon_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f65b0c90dba1ce3ae25b27ccc5d1bc25"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_026_hubtex_0" name="bmw_026_hubtex_0">
+		<Material id="0" name="hubtex"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_026_hubtex_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="928a0d51da8fa7adb6b8ddd6074ede26"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_027_cabsomething_0" name="bmw_027_cabsomething_0">
+		<Material id="0" name="cabsomething"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_027_cabsomething_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5837fec36f44d380f1e3b030c64c77ae"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_028_bmwheel_0" name="bmw_028_bmwheel_0">
+		<Material id="0" name="bmwheel"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_028_bmwheel_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="142fce1528f63c1d79fd9439ef395a00"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_029_tyre_base_0" name="bmw_029_tyre_base_0">
+		<Material id="0" name="tyre_base"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_029_tyre_base_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f49f674fd843e93008a23edbb7b5418b"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_030_brake_disk_0" name="bmw_030_brake_disk_0">
+		<Material id="0" name="brake_disk"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_030_brake_disk_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9f870933ec489d6633e7f2b7c75d10e4"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_031_bmwheel_0" name="bmw_031_bmwheel_0">
+		<Material id="0" name="bmwheel"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_031_bmwheel_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="79db0c0a13d193104912498f8cd3b7aa"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_032_tyre_base_0" name="bmw_032_tyre_base_0">
+		<Material id="0" name="tyre_base"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_032_tyre_base_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="34946675a5c00980823798a85476246e"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_033_brake_disk_0" name="bmw_033_brake_disk_0">
+		<Material id="0" name="brake_disk"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_033_brake_disk_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3429c8b832d631052f97d4e3a40e3c17"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_034_bmwheel_0" name="bmw_034_bmwheel_0">
+		<Material id="0" name="bmwheel"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_034_bmwheel_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="88b1519f64254fa094bb03052648d47e"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_035_tyre_base_0" name="bmw_035_tyre_base_0">
+		<Material id="0" name="tyre_base"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_035_tyre_base_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea381c8e339898b6aef02158ecdf327b"/>
+	</StaticMesh>
+	<StaticMesh label="bmw_036_brake_disk_0" name="bmw_036_brake_disk_0">
+		<Material id="0" name="brake_disk"/>
+		<file path="2015_bmw_3.0_csl_hommage_Assets/bmw_036_brake_disk_0.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd88b7bcfd40485311247b4de9556397"/>
+	</StaticMesh>
+	<UEPbrMaterial name="bmwsteer">
+		<Expressions>
+			<Texture PathName="bmwsteer_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="black">
+		<Expressions>
+			<Color constant="(R=0.154263,G=0.154263,B=0.154263,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.306665"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="steer_text">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="script_rt_dials_digital">
+		<Expressions>
+			<Color constant="(R=0.710000,G=0.710000,B=0.710000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="material_002">
+		<Expressions>
+			<Texture PathName="material_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwlights">
+		<Expressions>
+			<Texture PathName="bmwlights_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwmisc">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwchassis">
+		<Expressions>
+			<Texture PathName="bmwchassis_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwcarbon">
+		<Expressions>
+			<Texture PathName="bmwcarbon_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwinterior">
+		<Expressions>
+			<Texture PathName="bmwinterior_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="leather">
+		<Expressions>
+			<Texture PathName="leather_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="leather3_brown">
+		<Expressions>
+			<Color constant="(R=0.352606,G=0.091003,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="wood_spec">
+		<Expressions>
+			<Color constant="(R=0.351533,G=0.090842,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwmetal">
+		<Expressions>
+			<Texture PathName="bmwmetal_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwmech">
+		<Expressions>
+			<Texture PathName="bmwmech_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="blackforza">
+		<Expressions>
+			<Color constant="(R=0.710000,G=0.710000,B=0.710000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwheel">
+		<Expressions>
+			<Texture PathName="bmwheel_baseColor_png"/>
+			<Scalar constant="0.467811"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="tyre_base">
+		<Expressions>
+			<Texture PathName="tyre_base_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="brake_disk">
+		<Expressions>
+			<Color constant="(R=0.111065,G=0.111065,B=0.111065,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="red_glass">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="blue">
+		<Expressions>
+			<Color constant="(R=0.710000,G=0.710000,B=0.710000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Matte__FFC0C0C0">
+		<Expressions>
+			<Color constant="(R=0.750000,G=0.750000,B=0.750000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bmwbadges">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Matte__FF8080FF">
+		<Expressions>
+			<Texture PathName="Matte__FF8080FF_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pagcarbon">
+		<Expressions>
+			<Texture PathName="bmwcarbon_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="hubtex">
+		<Expressions>
+			<Texture PathName="hubtex_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="cabsomething">
+		<Expressions>
+			<Texture PathName="cabsomething_baseColor_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="bmwsteer_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwsteer_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="205f23dfbcad3c24d4b84978b9d648c0"/>
+	</Texture>
+	<Texture name="material_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\material_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="626dcdf9f501c47881729d77f7c8b68f"/>
+	</Texture>
+	<Texture name="bmwlights_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwlights_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="8c564da29f7f54cf054be66b91fa3e3d"/>
+	</Texture>
+	<Texture name="bmwchassis_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwchassis_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="02b7f0ae895da9ae848974d478dd23c8"/>
+	</Texture>
+	<Texture name="bmwcarbon_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwcarbon_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="9d501e0471d0524ff9c69385c0dd1a17"/>
+	</Texture>
+	<Texture name="bmwinterior_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwinterior_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="b050316b914b5f8baa8ebbd0524e31ed"/>
+	</Texture>
+	<Texture name="leather_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\leather_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="0be9b5d77546caf6210af4048571cbdf"/>
+	</Texture>
+	<Texture name="bmwmetal_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwmetal_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="b3b0554ae88f2c892d69b0e364783980"/>
+	</Texture>
+	<Texture name="bmwmech_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwmech_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="7e243b66f22a3049f558beb7d6e51bc2"/>
+	</Texture>
+	<Texture name="bmwheel_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\bmwheel_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="e33a8b7e84d2e561010011f6600d9a70"/>
+	</Texture>
+	<Texture name="tyre_base_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\tyre_base_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="a1f9d5d91cbfe9622651f104d0fde6bf"/>
+	</Texture>
+	<Texture name="Matte__FF8080FF_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\Matte__FF8080FF_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="106fd4a96171f5232af9fc476611a875"/>
+	</Texture>
+	<Texture name="hubtex_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\hubtex_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="cc430e5617b9ba1ee482380762ac803a"/>
+	</Texture>
+	<Texture name="cabsomething_baseColor_png" file="2015_bmw_3.0_csl_hommage_Assets\cabsomething_baseColor_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="6e6719f31c7d437bf368d3521c334ed9"/>
+	</Texture>
+	<Export Duration="0.5160000000032596"/>
+</DatasmithUnrealScene>
